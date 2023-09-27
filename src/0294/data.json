@@ -6,6 +6,7 @@
     "type": [
         "isolation"
     ],
+    "part": "core",
     "primary": [
         "abdominals"
     ],

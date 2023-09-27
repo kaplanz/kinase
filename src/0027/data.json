@@ -6,6 +6,7 @@
     "type": [
         "isometric"
     ],
+    "part": "core",
     "primary": [
         "abdominals"
     ],
