@@ -3,7 +3,9 @@
     "name": "close-grip-ez-bar-curl-with-barbell",
     "title": "Close Grip EZ Bar Curl with Barbell",
     "primer": "This exercise uses a cambered EZ or curl bar to isolate the biceps during a curl.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

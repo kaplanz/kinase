@@ -3,7 +3,9 @@
     "name": "triceps-pushdown-with-v-bar-and-cable",
     "title": "Triceps Pushdown: Cable (V-Bar)",
     "primer": "This exercise is the triceps pushdown uses a V shaped bar.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

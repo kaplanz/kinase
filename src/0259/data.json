@@ -3,7 +3,9 @@
     "name": "biceps-curl-with-deadlift-with-barbell",
     "title": "Dead Lift: Barbell (Biceps Curl)",
     "primer": "This exercise combines a bicep curl with a deadlift.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

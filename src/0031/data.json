@@ -3,7 +3,9 @@
     "name": "incline-shoulder-press-dumbbell",
     "title": "Incline Shoulder Press Dumbbell",
     "primer": "This is an exercise for shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

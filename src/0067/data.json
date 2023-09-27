@@ -3,7 +3,9 @@
     "name": "barbell-neck-press",
     "title": "Barbell Neck Press",
     "primer": "This is an advanced exercise for chest strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

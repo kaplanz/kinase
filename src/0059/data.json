@@ -3,7 +3,9 @@
     "name": "hammer-grip-incline-bench-press",
     "title": "Bench Press: Dumbbell (Incline, Hammer Grip)",
     "primer": "This is an advanced exercise for strengthening the chest, triceps and shoulders.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

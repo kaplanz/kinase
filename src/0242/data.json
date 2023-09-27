@@ -3,7 +3,9 @@
     "name": "seated-close-grip-concentration-curls-with-barbell",
     "title": "Seated Close Grip Concentration Curls with Barbell",
     "primer": "Concentration exercises limit your range of movement to increase the effectiveness of the movement.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

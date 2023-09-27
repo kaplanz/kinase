@@ -3,7 +3,9 @@
     "name": "bench-press",
     "title": "Bench Press: Barbell",
     "primer": "This is an exercise for the chest.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "pectoralis major"
     ],

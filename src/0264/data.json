@@ -3,7 +3,10 @@
     "name": "lateral-lunge-with-biceps-curl-with-dumbbell",
     "title": "Lateral Lunge with Bicep Curl with Dumbbell",
     "primer": "This is an advanced exercise that combines a lateral lunge with a bicep curl.",
-    "type": "compound, isolation",
+    "type": [
+        "compound",
+        "isolation"
+    ],
     "primary": [
         "quadriceps",
         "biceps brachii"

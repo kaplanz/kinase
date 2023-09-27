@@ -3,7 +3,9 @@
     "name": "leg-extensions",
     "title": "Leg Extensions",
     "primer": "This exercise is a staple for building strong legs.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "quadriceps"
     ],

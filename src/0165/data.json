@@ -3,7 +3,9 @@
     "name": "lying-triceps-extension-with-cable",
     "title": "Lying Tricep Extension with Cable",
     "primer": "This exercise uses cables to isolate and work the triceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

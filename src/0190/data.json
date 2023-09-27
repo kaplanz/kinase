@@ -3,7 +3,9 @@
     "name": "reverse-triceps-bench-press-with-barbell",
     "title": "Bench Press: Barbell (Reverse Triceps)",
     "primer": "This exercise is a version of the Bench Press that specifically isolates the triceps.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "triceps brachii"
     ],

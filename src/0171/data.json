@@ -3,7 +3,9 @@
     "name": "tricep-dips",
     "title": "Triceps Dips: Machine",
     "primer": "This exercise uses a machine to work the triceps while in seated position.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "triceps brachii"
     ],

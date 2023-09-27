@@ -3,7 +3,9 @@
     "name": "biceps-curl-with-overhead-extension-using-dumbbells-on-stability-ball",
     "title": "Biceps Curl: Stability Ball with Dumbbell (Overhead Extension)",
     "primer": "This exercise requires you to be able to balance kneeling on a stability ball before you can correctly perform this exercise",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii",
         "biceps brachii"

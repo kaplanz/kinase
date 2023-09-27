@@ -3,7 +3,9 @@
     "name": "barbell-lunges",
     "title": "Lunges: Barbell",
     "primer": "This is a classic exercise used for strengthening the hamstrings, quadriceps, calves and gluts.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "ischiocrural muscles"
     ],

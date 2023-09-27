@@ -3,7 +3,9 @@
     "name": "lying-triceps-press-with-barbell",
     "title": "Lying Triceps Press with Barbell",
     "primer": "This is another classic exercise for building the triceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

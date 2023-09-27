@@ -3,7 +3,9 @@
     "name": "decline-oblique-crunch",
     "title": "Decline Oblique Crunch",
     "primer": "This version of a decline crunch isolates the oblique muscles of the abs.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "abdominals"
     ],

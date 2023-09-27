@@ -3,7 +3,9 @@
     "name": "calves-press-on-leg-machine",
     "title": "Calves Press on Leg Machine",
     "primer": "This exercise uses a Leg Press Machine to work your calves.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "gastrocnemius",
         "soleus"

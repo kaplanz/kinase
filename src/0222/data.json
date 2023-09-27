@@ -3,7 +3,9 @@
     "name": "drag-curl-with-barbell",
     "title": "Drag Curl with Barbell",
     "primer": "This exercise works the biceps and forearms.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

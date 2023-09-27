@@ -3,7 +3,9 @@
     "name": "v-bar-pull-down",
     "title": "Pull Down: V Bar ",
     "primer": "This is an exercise for lats, biceps and middle back strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "latissimus dorsi"
     ],

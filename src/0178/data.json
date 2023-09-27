@@ -3,7 +3,9 @@
     "name": "low-triceps-extension-with-cable",
     "title": "Triceps Extension: Cable (Low)",
     "primer": "This exercise is done while lying on a seated row station.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

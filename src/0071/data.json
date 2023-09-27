@@ -3,7 +3,9 @@
     "name": "one-arm-flat-bench-flys",
     "title": "One Arm Flat Bench Fly’s",
     "primer": "This is an exercise for chest strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

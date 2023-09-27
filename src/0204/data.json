@@ -3,7 +3,9 @@
     "name": "triceps-kickback-with-dumbbell",
     "title": "Triceps Kickback with Dumbbell",
     "primer": "This along with the Triceps Push Down is one of the most beneficial exercises for the arms.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

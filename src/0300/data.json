@@ -3,7 +3,9 @@
     "name": "cuban-dumbbell-press",
     "title": "Cuban Dumbbell Press",
     "primer": "This is a three point exercise for shoulder and middle back strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

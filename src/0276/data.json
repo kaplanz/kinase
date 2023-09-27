@@ -3,7 +3,9 @@
     "name": "seated-one-leg-calf-raise-with-dumbbell",
     "title": "Seated One Leg Calf Raise with Dumbbell",
     "primer": "This version of a calf raise allows you to exercise each leg individually.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "gastrocnemius",
         "soleus"

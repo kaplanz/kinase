@@ -3,7 +3,9 @@
     "name": "lying-rear-lateral-raise",
     "title": "Lying Rear Lateral Raise",
     "primer": "This is an exercise for shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

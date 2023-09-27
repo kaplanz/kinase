@@ -3,7 +3,9 @@
     "name": "barbell-shoulder-press",
     "title": "Seated Barbell Shoulder Press",
     "primer": "This is an exercise for shoulder, chest and triceps strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

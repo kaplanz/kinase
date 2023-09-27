@@ -3,7 +3,9 @@
     "name": "step-ups-with-barbell",
     "title": "Step Ups: Barbell",
     "primer": "This exercise builds coordination as well as muscle.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

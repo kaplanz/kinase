@@ -3,7 +3,9 @@
     "name": "barbell-shrugs",
     "title": "Barbell Shrugs",
     "primer": "This is an exercise for trapezius strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "trapezius"
     ],

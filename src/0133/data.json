@@ -3,7 +3,9 @@
     "name": "squat-to-bench-with-barbell",
     "title": "Squats: Barbell (to Bench)",
     "primer": "This variation on a squat uses a bench to remind you how far down to squat.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

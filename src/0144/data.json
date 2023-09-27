@@ -3,7 +3,9 @@
     "name": "lying-squat",
     "title": "Lying Squat",
     "primer": "This exercise is similar to a Leg Press Machine working the same muscles.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

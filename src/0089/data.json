@@ -3,7 +3,9 @@
     "name": "chin-ups",
     "title": "Chin Ups",
     "primer": "This is an extremely good exercise for upper arm and middle back strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "latissimus dorsi"
     ],

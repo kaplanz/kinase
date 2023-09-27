@@ -3,7 +3,9 @@
     "name": "front-squat-to-bench-with-barbells",
     "title": "Front Squat to Bench with Barbells",
     "primer": "The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

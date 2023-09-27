@@ -3,7 +3,9 @@
     "name": "reverse-plate-curls-with-weight",
     "title": "Reverse Plate Curls with Weight",
     "primer": "This exercise uses a free weight plate to build muscle.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

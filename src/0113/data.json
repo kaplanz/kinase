@@ -3,7 +3,9 @@
     "name": "side-plank",
     "title": "Side Plank",
     "primer": "This is an exercise for core strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "obliques"
     ],

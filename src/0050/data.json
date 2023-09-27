@@ -3,7 +3,9 @@
     "name": "crossover-bands",
     "title": "Crossover with Bands",
     "primer": "This is an exercise for chest, biceps and shoulder strengthening",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

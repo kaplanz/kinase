@@ -3,7 +3,9 @@
     "name": "decline-chest-press",
     "title": "Decline Chest Press",
     "primer": "This is an exercise for the strengthening of the lower chest or pectoral muscles and is preferred by beginners as it provides support and stability.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

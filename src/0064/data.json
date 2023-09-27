@@ -3,7 +3,9 @@
     "name": "wide-grip-decline-barbell-pullover",
     "title": "Wide Grip Decline Barbell Pullover",
     "primer": "This is an advanced strengthening exercise which targets the pectoral or chest muscles.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

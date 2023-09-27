@@ -3,7 +3,9 @@
     "name": "incline-flys-twist",
     "title": "Incline Fly's with a Twist",
     "primer": "This is an exercise for chest sculpting and strengthening which is very similar to the incline fly's.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

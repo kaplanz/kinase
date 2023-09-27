@@ -3,7 +3,9 @@
     "name": "dumbbell-flys",
     "title": "Dumbbell Flys",
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

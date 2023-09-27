@@ -3,7 +3,9 @@
     "name": "lying-close-grip-triceps-press-to-chin-with-barbell",
     "title": "Lying Close Grip Triceps Press to Chin with Barbell",
     "primer": "This exercise is a classic for building the triceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

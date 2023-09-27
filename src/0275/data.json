@@ -3,7 +3,9 @@
     "name": "donkey-calf-raises",
     "title": "Donkey Calf Raises",
     "primer": "This is an old school gym exercise which requires the assistance of another person.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "gastrocnemius",
         "soleus"

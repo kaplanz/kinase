@@ -3,7 +3,9 @@
     "name": "romanian-dead-lift",
     "title": "Romanian Dead Lift",
     "primer": "This is an exercise similar to the regular dead lift and strengthens the hamstring, calves, quadriceps and gluts.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "ischiocrural muscles"
     ],

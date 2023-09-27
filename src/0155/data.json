@@ -3,7 +3,9 @@
     "name": "squats-with-exercise-bands",
     "title": "Squats: Exercise Bands",
     "primer": "This version of the Squat uses flexible exercise bands for resistance instead of weights.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

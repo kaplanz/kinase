@@ -3,7 +3,9 @@
     "name": "stability-ball-abdominal-crunch",
     "title": "Stability Ball Abdominal Crunch",
     "primer": "This crunch uses a Stability Ball.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "abdominals"
     ],

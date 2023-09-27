@@ -3,7 +3,9 @@
     "name": "biceps-curl-lunge-with-bowling-motion",
     "title": "Biceps Curl: Medicine Balll (Lunge, Bowling Motion)",
     "primer": "This exercise is similar to the motions of bowling.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

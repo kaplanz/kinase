@@ -3,7 +3,9 @@
     "name": "hack-squat-machine",
     "title": "Hack Squat: Machine",
     "primer": "This exercise is a variation of the Squat which uses a machine.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

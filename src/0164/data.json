@@ -3,7 +3,9 @@
     "name": "incline-triceps-extension-with-cable",
     "title": "Triceps Extension: Cable (Incline)",
     "primer": "This exercise uses cables to isolate and work the triceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

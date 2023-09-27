@@ -3,7 +3,9 @@
     "name": "lying-close-grip-triceps-extension-behind-the-head-with-barbell",
     "title": "Triceps Extension: Barbell (Lying, Close Grip, Behind the Head)",
     "primer": "You can use a barbell or EZ bar to further concentrate the benefit to your triceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

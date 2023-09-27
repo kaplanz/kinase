@@ -3,7 +3,9 @@
     "name": "alternating-hammer-curl-with-dumbbell",
     "title": "Alternating Hammer Curl with Dumbbell",
     "primer": "This exercise uses a hammering motion to isolate the biceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

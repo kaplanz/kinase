@@ -3,7 +3,9 @@
     "name": "body-row",
     "title": "Body Row",
     "primer": "This is a good overall exercise which strengthens your chest, core and back muscles.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "pectoralis major"
     ],

@@ -3,7 +3,9 @@
     "name": "bent-knee-hip-raise",
     "title": "Bent Knee Hip Raise",
     "primer": "This is a good exercise core muscle development.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "abdominals"
     ],

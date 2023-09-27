@@ -3,7 +3,9 @@
     "name": "one-arm-dumbbell-shoulder-press",
     "title": "One Arm Dumbbell Shoulder Press",
     "primer": "This is an exercise for shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

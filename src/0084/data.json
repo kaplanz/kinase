@@ -3,7 +3,9 @@
     "name": "incline-chest-press",
     "title": "Incline Chest Press",
     "primer": "This exercise is for strengthening the upper chest and is preferred among beginners as it provides support and control.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

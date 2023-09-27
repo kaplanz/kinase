@@ -3,7 +3,9 @@
     "name": "stork-stance-biceps-curl-with-dumbbells",
     "title": "Stork Stance Bicep Curl with Dumbbells",
     "primer": "This is an advanced exercise that requires excellent coordination and balance.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

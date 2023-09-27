@@ -3,7 +3,9 @@
     "name": "dumbbell-shoulder-press",
     "title": "Dumbbell Shoulder Press",
     "primer": "An exercise for shoulder, chest and triceps strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

@@ -3,7 +3,9 @@
     "name": "incline-pushdown-with-cable",
     "title": "Incline Pushdown with Cable",
     "primer": "This exercise uses cables to isolate and work the triceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

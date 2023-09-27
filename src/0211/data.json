@@ -3,7 +3,9 @@
     "name": "biceps-curls-with-barbell",
     "title": "Biceps Curl: Barbell",
     "primer": "This is a basic exercise for the biceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

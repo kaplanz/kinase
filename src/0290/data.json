@@ -3,7 +3,9 @@
     "name": "crunches-with-legs-on-stability-ball",
     "title": "Crunches with Legs on Stability Ball",
     "primer": "This exercise uses a Stability Ball as the base during your crunches.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "abdominals"
     ],

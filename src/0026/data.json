@@ -3,7 +3,9 @@
     "name": "reverse-grips-bent-over-barbell-rows",
     "title": "Reverse Grips Bent Over Barbell Rows",
     "primer": "This is an exercise for middle back and biceps strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "latissimus dorsi"
     ],

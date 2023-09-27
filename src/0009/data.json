@@ -3,7 +3,9 @@
     "name": "cable-shoulder-shrugs",
     "title": "Shoulder Shrugs: Cable",
     "primer": "An exercise for trapezius strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "trapezius"
     ],

@@ -3,7 +3,9 @@
     "name": "decline-close-grip-bench-to-skull-crusher",
     "title": "Decline Close Grip Bench to Skull Crusher",
     "primer": "This exercise combines a close grip bench press with triceps extension.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

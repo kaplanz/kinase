@@ -3,7 +3,9 @@
     "name": "pile-squat-with-dumbbell",
     "title": "Pile Squat with Dumbbell",
     "primer": "This version of the squat is done with a dumbbell and mimics the action of a pile driver.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

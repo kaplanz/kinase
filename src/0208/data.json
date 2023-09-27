@@ -3,7 +3,9 @@
     "name": "weighted-ball-side-bend",
     "title": "Weighted Ball Side Bend",
     "primer": "This exercise use a Stability Ball instead of a bench to work the obliques.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "obliques"
     ],

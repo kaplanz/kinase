@@ -3,7 +3,9 @@
     "name": "butterfly-machine",
     "title": "Butterfly Machine",
     "primer": "This is an exercise for chest strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

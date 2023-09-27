@@ -3,7 +3,9 @@
     "name": "rocking-standing-calf-raise-with-barbell",
     "title": "Rocking Standing Calf Raise with Barbell",
     "primer": "This exercise uses a simple rocking motion to strengthen the calves.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "gastrocnemius",
         "soleus"

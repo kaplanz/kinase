@@ -3,7 +3,9 @@
     "name": "one-arm-preacher-curl-with-dumbbell",
     "title": "Preacher Curl: Dumbbell (One Arm)",
     "primer": "",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

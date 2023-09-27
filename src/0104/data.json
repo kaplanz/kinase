@@ -3,7 +3,9 @@
     "name": "back-extension-stability-ball",
     "title": "Back Extension on Stability Ball",
     "primer": "This exercise provides flexibility as it strengthens the muscles of the back and core.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "erector spinae"
     ],

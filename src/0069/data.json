@@ -3,7 +3,9 @@
     "name": "bosu-ball-push-up",
     "title": "Push Up: Bosu Ball",
     "primer": "This is an exercise for chest, core, shoulders and triceps strengthening with the use of a Bosu ball.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

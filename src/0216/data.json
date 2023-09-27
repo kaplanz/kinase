@@ -3,7 +3,9 @@
     "name": "hammer-curls-with-rope-and-cable",
     "title": "Hammer Curls with Rope and Cable",
     "primer": "Using the rope with the cable machine allows you isolate the biceps with this version of the Hammer Curl.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

@@ -3,7 +3,9 @@
     "name": "medicine-ball-biceps-curl-on-stability-ball",
     "title": "Medicine Ball Biceps Curl on Stability Ball",
     "primer": "This exercise combines a new technology, Stability Ball, with a old piece of fitness equipment, the Medicine Ball.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

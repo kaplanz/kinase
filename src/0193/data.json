@@ -3,7 +3,9 @@
     "name": "seated-overhead-triceps-extension-with-barbell",
     "title": "Triceps Extension: Barbell (Seated, Overhead)",
     "primer": "This exercise uses a barbell behind your neck to isolate the triceps effectively.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

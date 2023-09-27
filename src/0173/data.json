@@ -3,7 +3,9 @@
     "name": "one-arm-triceps-extension-with-dumbbell",
     "title": "Triceps Extension: Dumbbell (One Arm)",
     "primer": "This exercise uses a dumbbell to work each arm individually.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

@@ -3,7 +3,9 @@
     "name": "body-leg-lifts",
     "title": "Body Leg Lifts",
     "primer": "This is an exercise for gluts and hamstring strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "glutaeus maximus"
     ],

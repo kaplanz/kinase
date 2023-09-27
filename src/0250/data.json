@@ -3,7 +3,9 @@
     "name": "wide-grip-standing-biceps-curl-with-barbell",
     "title": "Wide Grip Standing Biceps Curl with Barbell",
     "primer": "This is a wide grip version of a biceps curl.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

@@ -3,7 +3,9 @@
     "name": "jm-press",
     "title": "JM Press",
     "primer": "This is an advanced exercise used by bodybuilders and power lifters to build explosive power in the triceps muscle.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "triceps brachii"
     ],

@@ -3,7 +3,9 @@
     "name": "seated-triceps-press-with-dumbbell",
     "title": "Seated Triceps Press with Dumbbell",
     "primer": "This exercise uses a single dumbbell held between both hands to work the triceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

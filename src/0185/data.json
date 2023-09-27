@@ -3,7 +3,9 @@
     "name": "old-school-reverse-extensions",
     "title": "Old School Reverse Extensions",
     "primer": "As the name suggests, this is an old classic exercise that hits the triceps hard.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

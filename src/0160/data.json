@@ -3,7 +3,9 @@
     "name": "wide-stance-squat-with-barbell",
     "title": "Wide Stance Squat with Barbell",
     "primer": "This version of the squat uses a wider stance to isolate the inner thigh.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

@@ -3,7 +3,9 @@
     "name": "seated-rear-lateral-cable-raise",
     "title": "Seated Rear Lateral Cable Raise",
     "primer": "Tis is an exercise for shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

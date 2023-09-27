@@ -3,7 +3,9 @@
     "name": "rear-lunges-with-dumbbell",
     "title": "Lunges: Dumbbell (Rear)",
     "primer": "This is an advanced version of a lunge using a dumbbell.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

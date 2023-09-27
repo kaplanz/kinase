@@ -3,7 +3,9 @@
     "name": "overhead-squat-with-barbell",
     "title": "Overhead Squat with Barbell",
     "primer": "In this version of the squat you hold the bar overhead as you perform the exercise.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

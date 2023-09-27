@@ -3,7 +3,9 @@
     "name": "weighted-sissy-squat-with-weight-plate",
     "title": "Weighted Sissy Squat with Weight Plate",
     "primer": "Don't let the name of this exercise fool you, it is a an assisted squat which effectively works the quadriceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "quadriceps"
     ],

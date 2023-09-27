@@ -3,7 +3,9 @@
     "name": "dumbbell-lunges",
     "title": "Lunges: Dumbbell",
     "primer": "This is an exercise for whole leg but mainly hamstring strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "ischiocrural muscles"
     ],

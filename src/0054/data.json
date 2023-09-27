@@ -3,7 +3,9 @@
     "name": "chest-dips",
     "title": "Chest Dips",
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

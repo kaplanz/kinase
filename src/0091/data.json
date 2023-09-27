@@ -3,7 +3,9 @@
     "name": "wide-grip-chin-up",
     "title": "Wide Grip Chin Up",
     "primer": "This variation on the basic chin up is a great exercise for people who rock climb.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "trapezius"
     ],

@@ -3,7 +3,9 @@
     "name": "leg-press",
     "title": "Leg Press",
     "primer": "This exercise is crucial for building and strengthening the legs.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

@@ -3,7 +3,9 @@
     "name": "smith-machine-upright-row",
     "title": "Upright Row: Smith Machine",
     "primer": "This is an exercise for shoulder and biceps strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

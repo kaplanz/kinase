@@ -3,7 +3,9 @@
     "name": "upright-barbell-rows",
     "title": "Upright Barbell Rows",
     "primer": "This is an exercise for shoulder, biceps and upper back strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

@@ -3,7 +3,9 @@
     "name": "incline-bench-press",
     "title": "Bench Press: Barbell (Incline)",
     "primer": "This is an exercise for chest and triceps strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

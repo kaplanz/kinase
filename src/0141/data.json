@@ -3,7 +3,9 @@
     "name": "jefferson-squats-with-barbell",
     "title": "Jefferson Squats: Barbell",
     "primer": "This exercise builds and shapes the inner thighs.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "ischiocrural muscles"
     ],

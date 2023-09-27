@@ -3,7 +3,9 @@
     "name": "machine-bench-press",
     "title": "Bench Press: Machine",
     "primer": "This is an exercise for chest, biceps and shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

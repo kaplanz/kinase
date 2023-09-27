@@ -3,7 +3,9 @@
     "name": "straight-arm-dumbbell-pullover",
     "title": "Straight Arm Dumbbell Pullover",
     "primer": "This is an exercise for chest and shoulder strengthening which mainly targets the rotator cuff muscles.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

@@ -3,7 +3,9 @@
     "name": "preacher-hammer-curl-with-dumbbell",
     "title": "Preacher Curl: Dumbbell (Hammer)",
     "primer": "This exercise combines a Hammer Curl with a Preacher bench.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

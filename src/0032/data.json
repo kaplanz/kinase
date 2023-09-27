@@ -3,7 +3,9 @@
     "name": "bent-over-rear-deltoid-raise-with-head-on-bench",
     "title": "Bent Over Rear Deltoid Raise With Head On Bench",
     "primer": "This is an exercise for shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

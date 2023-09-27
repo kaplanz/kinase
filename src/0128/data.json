@@ -3,7 +3,9 @@
     "name": "rear-lunges-with-barbell",
     "title": "Lunges: Barbell (Rear)",
     "primer": "This is an advanced version of a lunge.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

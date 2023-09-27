@@ -3,7 +3,9 @@
     "name": "front-raises",
     "title": "Front Raises",
     "primer": "This is an exercise for shoulder, chest and forearm strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

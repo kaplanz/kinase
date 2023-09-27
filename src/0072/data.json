@@ -3,7 +3,9 @@
     "name": "one-armed-biased-push-up",
     "title": "One Armed Biased Push Up",
     "primer": "This is an exercise for chest strengthening but also strengthens ones core, shoulders, biceps and triceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

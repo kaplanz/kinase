@@ -3,7 +3,9 @@
     "name": "lying-supine-biceps-curl-with-dumbbell",
     "title": "Lying Supine Biceps Curl with Dumbbell",
     "primer": "This is an advanced biceps exercise where you lay down to isolate the muscles you are working.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

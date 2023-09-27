@@ -3,7 +3,9 @@
     "name": "ez-bar-curl-with-barbell",
     "title": "EZ Bar Curl with Barbell",
     "primer": "This exercise uses an EZ or curl bar to better isolate and build the arms.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

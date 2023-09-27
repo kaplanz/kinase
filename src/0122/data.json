@@ -3,7 +3,9 @@
     "name": "barbell-squat",
     "title": "Barbell Squat",
     "primer": "",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

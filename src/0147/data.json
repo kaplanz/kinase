@@ -3,7 +3,9 @@
     "name": "one-leg-squat-with-barbell",
     "title": "One Leg Squat with Barbell",
     "primer": "The One Leg Squat isolates the muscles of the leg for optimal exercise.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

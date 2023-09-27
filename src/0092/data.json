@@ -3,7 +3,9 @@
     "name": "straight-arm-push-down",
     "title": "Straight Arm Push Down",
     "primer": "This exercise for strengthening the Lats and also works the Triceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "latissimus dorsi"
     ],

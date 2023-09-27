@@ -3,7 +3,9 @@
     "name": "standing-one-arm-biceps-curl-with-cable",
     "title": "Standing One Arm Bicep Curl with Cable",
     "primer": "This is a single arm version of a bicep cable curl.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

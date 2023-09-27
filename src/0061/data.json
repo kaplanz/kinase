@@ -3,7 +3,9 @@
     "name": "dumbbell-incline-bench-press",
     "title": "Bench Press: Dumbbell (Incline)",
     "primer": "This is an advanced exercise for building and sculpting the chest as well as your triceps and shoulders.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

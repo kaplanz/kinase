@@ -3,7 +3,9 @@
     "name": "squat-to-bench-with-dumbbells",
     "title": "Squats: Dumbbells (to Bench)",
     "primer": "This variation of a squat uses a bench to remind you how far down to squat.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

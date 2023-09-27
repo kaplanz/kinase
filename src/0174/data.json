@@ -3,7 +3,9 @@
     "name": "incline-triceps-extension-with-barbell",
     "title": "Triceps Extension: Barbell (Incline)",
     "primer": "This version of a triceps extension uses gravity to increase the resistance of the exercise.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

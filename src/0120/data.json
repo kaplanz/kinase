@@ -3,7 +3,9 @@
     "name": "standing-leg-curls",
     "title": "Standing Leg Curls",
     "primer": "This is an exercise for hamstring strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "ischiocrural muscles"
     ],

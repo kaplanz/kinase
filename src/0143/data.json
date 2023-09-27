@@ -3,7 +3,9 @@
     "name": "narrow-stance-leg-press",
     "title": "Narrow Stance Leg Press",
     "primer": "This is a variation of the leg press which targets more of the external muscles of the legs.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

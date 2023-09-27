@@ -3,7 +3,9 @@
     "name": "barbell-dead-lifts",
     "title": "Dead Lifts: Barbell",
     "primer": "The techniques is identical to that of the Smith Machine dead lift except for the fact that this exercise provides less support.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "erector spinae"
     ],

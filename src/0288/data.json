@@ -3,7 +3,9 @@
     "name": "seated-ab-crunch-with-cable",
     "title": "Seated Ab Crunch with Cable",
     "primer": "This exercise uses the weight of a cable machine to assist in a crunch.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "abdominals"
     ],

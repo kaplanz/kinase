@@ -3,7 +3,9 @@
     "name": "pullover-stability-ball-weight",
     "title": "Pullover On Stability Ball With Weight",
     "primer": "This is an exercise for back, shoulders and neck strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

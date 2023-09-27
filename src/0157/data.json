@@ -3,7 +3,9 @@
     "name": "thigh-adductor",
     "title": "Thigh Adductor",
     "primer": "This exercise targets and works the muscles of the inner thigh.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "quadriceps"
     ],

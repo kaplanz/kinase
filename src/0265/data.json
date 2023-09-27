@@ -3,7 +3,10 @@
     "name": "forward-lunge-with-biceps-curl-using-dumbbell",
     "title": "Forward Lunge with Bicep Curl using Dumbbell",
     "primer": "This exercise combines a forward lunge with a bicep curl.",
-    "type": "compound, isolation",
+    "type": [
+        "compound",
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

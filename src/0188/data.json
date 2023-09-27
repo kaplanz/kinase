@@ -3,7 +3,9 @@
     "name": "close-triceps-pushup",
     "title": "Close Triceps Pushup",
     "primer": "This version of the Pushup isolates the tricep muscles.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "triceps brachii"
     ],

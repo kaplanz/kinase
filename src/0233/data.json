@@ -3,7 +3,9 @@
     "name": "lying-close-grip-biceps-curls-with-cable",
     "title": "Lying Close Grip Biceps Curls with Cable",
     "primer": "This exercise combines a flat body position with a pulling motion to work the biceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

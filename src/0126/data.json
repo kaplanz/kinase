@@ -3,7 +3,9 @@
     "name": "smith-machine-hack-squat",
     "title": "Smith Machine Hack Squat",
     "primer": "This is another variation of the basic Squat that focuses primarily on the quadriceps, or thigh muscles, while using the Smith Machine.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

@@ -3,7 +3,9 @@
     "name": "internal-cable-rotation",
     "title": "Internal Cable Rotation",
     "primer": "This is an exercise for shoulder and biceps strengthening.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "deltoid"
     ],

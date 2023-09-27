@@ -3,7 +3,9 @@
     "name": "seated-calf-raise-using-machine",
     "title": "Seated Calf Raise using Machine",
     "primer": "This is one of the simplest and most effective exercises for the calves.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "gastrocnemius",
         "soleus"

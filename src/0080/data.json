@@ -3,7 +3,9 @@
     "name": "incline-dumbbell-press",
     "title": "Incline Dumbbell Press",
     "primer": "This exercises is for mainly chest strengthening but also strengthens your triceps and shoulders.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

@@ -3,7 +3,9 @@
     "name": "one-arm-barbell-floor-press",
     "title": "One Arm Barbell Floor Press",
     "primer": "This is an exercise for chest and triceps strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

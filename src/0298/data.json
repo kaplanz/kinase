@@ -3,7 +3,9 @@
     "name": "bent-over-row-with-barbell",
     "title": "Bent Over Row with Barbell",
     "primer": "This exercise focuses on the middle back.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "latissimus dorsi"
     ],

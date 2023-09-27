@@ -3,7 +3,9 @@
     "name": "lying-bicep-cable-curl",
     "title": "Lying Bicep Cable Curl",
     "primer": "By lying down you are able to isolate the muscles of your biceps without standing or sitting.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

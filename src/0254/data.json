@@ -3,7 +3,9 @@
     "name": "one-arm-biceps-curl-with-olympic-bar-or-barbell",
     "title": "One Arm Bicep Curl with Olympic Bar or Barbell",
     "primer": "This is an advanced exercise for building stability and the muscles of the arms.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

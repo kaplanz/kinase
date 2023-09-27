@@ -3,7 +3,9 @@
     "name": "ball-wall-circles",
     "title": "Ball Wall Circles",
     "primer": "This is an exercise to strengthen and stretch the rotator cuff muscles or shoulder muscles.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "deltoid"
     ],

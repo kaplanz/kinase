@@ -3,7 +3,9 @@
     "name": "incline-dumbbell-flys",
     "title": "Incline Dumbbell Fly's",
     "primer": "This is an exercise for chest sculpting and strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

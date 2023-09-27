@@ -3,7 +3,9 @@
     "name": "smith-machine-incline-bench-press",
     "title": "Bench Press: Smith Machine (Incline)",
     "primer": "This is an exercise for chest, shoulder and triceps strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

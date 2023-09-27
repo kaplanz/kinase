@@ -3,7 +3,9 @@
     "name": "decline-triceps-extension-with-dumbbell",
     "title": "Triceps Extension: Dumbbell (Decline)",
     "primer": "This exercise combines a decline bench and dumbbells to target the triceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

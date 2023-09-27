@@ -3,7 +3,9 @@
     "name": "ankle-circles",
     "title": "Ankle Circles",
     "primer": "This is the most simple of all exercises for the calves.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "gastrocnemius",
         "soleus"

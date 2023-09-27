@@ -3,7 +3,9 @@
     "name": "static-neck-side-flexion",
     "title": "Static Neck Side Flexion",
     "primer": "An exercise either build or warm up neck side flexors.",
-    "type": "isometric",
+    "type": [
+        "isometric"
+    ],
     "primary": [
         "trapezius"
     ],

@@ -3,7 +3,9 @@
     "name": "static-neck-flexion-extension",
     "title": "Static Neck Flexion and Extension",
     "primer": "An exercise to either build or warm-up front and back neck strength.",
-    "type": "isometric",
+    "type": [
+        "isometric"
+    ],
     "primary": [
         "trapezius"
     ],

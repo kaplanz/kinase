@@ -3,7 +3,9 @@
     "name": "spider-curl-with-barbell",
     "title": "Spider Curl with Barbell",
     "primer": "",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

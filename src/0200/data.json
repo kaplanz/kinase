@@ -3,7 +3,9 @@
     "name": "standing-one-arm-triceps-extension-with-dumbbell",
     "title": "Triceps Extension: Dumbbell (Standing, One Arm)",
     "primer": "This is a single arm version of a behind the neck triceps exercise.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

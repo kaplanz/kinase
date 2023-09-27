@@ -3,7 +3,9 @@
     "name": "smith-machine-shoulder-shrugs",
     "title": "Shoulder Shrugs: Smith Machine",
     "primer": "This is an exercise for shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

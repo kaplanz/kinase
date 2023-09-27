@@ -3,7 +3,9 @@
     "name": "iron-cross-with-dumbbells",
     "title": "Iron Cross: Dumbbell",
     "primer": "This is an advanced exercise that works the whole body.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

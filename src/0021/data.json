@@ -3,7 +3,9 @@
     "name": "flat-bench-leg-raises",
     "title": "Flat Bench Leg Raises",
     "primer": "This is an exercise for lower abdominal strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "abdominals"
     ],

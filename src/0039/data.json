@@ -3,7 +3,9 @@
     "name": "one-arm-upright-row",
     "title": "Upright Row: Dumbbell (One Arm)",
     "primer": "This is an exercise for shoulder and trapezius strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

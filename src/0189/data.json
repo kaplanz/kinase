@@ -3,7 +3,9 @@
     "name": "reverse-grip-triceps-pushdown",
     "title": "Reverse Grip Triceps Pushdown",
     "primer": "This exercise is the reverse version of the triceps pushdown.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

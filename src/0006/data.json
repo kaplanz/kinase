@@ -3,7 +3,9 @@
     "name": "arnold-press",
     "title": "Arnold Press",
     "primer": "An exercise for shoulder and triceps strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

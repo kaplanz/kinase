@@ -3,7 +3,9 @@
     "name": "lying-one-arm-rear-lateral-raise",
     "title": "Lying One Arm Rear Lateral Raise",
     "primer": "This is an exercise for shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

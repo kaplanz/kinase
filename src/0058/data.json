@@ -3,7 +3,9 @@
     "name": "barbell-front-raise-pullover",
     "title": "Barbell Front Raise and Pullover",
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

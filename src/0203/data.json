@@ -3,7 +3,9 @@
     "name": "tate-press-with-dumbbell",
     "title": "Tate Press with Dumbbell",
     "primer": "This is an advanced triceps exercise which moves the muscle differently than other exercises.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

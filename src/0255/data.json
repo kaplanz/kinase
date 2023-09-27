@@ -3,7 +3,9 @@
     "name": "biceps-curl-seated-on-stability-ball-with-dumbbell",
     "title": "Biceps Curl: Stability Ball with Dumbbell (seated)",
     "primer": "This version of a biceps curl uses a Stability Ball.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

@@ -3,7 +3,9 @@
     "name": "dumbbell-dead-lifts",
     "title": "Dead Lifts: Dumbbell",
     "primer": "This is an exercise for lower back, hamstring and calves strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "erector spinae"
     ],

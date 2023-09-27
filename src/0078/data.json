@@ -3,7 +3,9 @@
     "name": "smith-machine-bench-press",
     "title": "Bench Press: Smith Machine",
     "primer": "With the use of a Smith Machine this exercise strengthens your chest shoulders and triceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

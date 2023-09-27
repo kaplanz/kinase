@@ -3,7 +3,9 @@
     "name": "high-cable-curls",
     "title": "High Cable Curls",
     "primer": "This exercise allows you to target the muscles of your arms from a different position.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

@@ -3,7 +3,9 @@
     "name": "standing-one-arm-curl-over-incline-bench-with-dumbbell",
     "title": "Standing One Arm Curl Over Incline Bench with Dumbbell",
     "primer": "",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

@@ -3,7 +3,9 @@
     "name": "zecher-squats",
     "title": "Zecher Squats",
     "primer": "This variation of squat is similar to a Front Squat, it works to build the Upper muscles of the quadriceps (thighs).",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

@@ -3,7 +3,9 @@
     "name": "narrow-stance-hack-squats",
     "title": "Narrow Stance Hack Squats",
     "primer": "Like the Hack Squat, this exercise works the muscles of the leg.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

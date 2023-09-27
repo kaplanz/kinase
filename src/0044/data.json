@@ -3,7 +3,9 @@
     "name": "incline-bench-press-with-bands",
     "title": "Bench Press: Bands (Incline)",
     "primer": "This is an exercise for chest and biceps strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

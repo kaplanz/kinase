@@ -3,7 +3,9 @@
     "name": "incline-triceps-extensions-with-dumbbell",
     "title": "Triceps Extension: Dumbbell (Incline)",
     "primer": "This version of the triceps extension uses an incline bench.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

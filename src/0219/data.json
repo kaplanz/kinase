@@ -3,7 +3,9 @@
     "name": "close-grip-standing-biceps-curls-with-barbell",
     "title": "Close Grip Standing Biceps Curls with Barbell",
     "primer": "This exercise uses a standard barbell to isolate the biceps during a curl.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

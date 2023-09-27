@@ -3,7 +3,9 @@
     "name": "prone-incline-biceps-curl-with-dumbbell",
     "title": "Prone Incline Biceps Curl with Dumbbell",
     "primer": "This exercise uses an incline bench to change your body’s position as you perform Biceps Curls.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

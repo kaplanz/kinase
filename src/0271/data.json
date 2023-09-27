@@ -3,7 +3,9 @@
     "name": "balance-board",
     "title": "Balance Board",
     "primer": "Your calves are stabilizing muscles for your legs, so this exercises uses a Balance Board or wobble board to force you to balance.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "gastrocnemius",
         "soleus"

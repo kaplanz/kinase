@@ -3,7 +3,9 @@
     "name": "smith-machine-close-grip-bench-press",
     "title": "Bench Press: Smith Machine (Close Grip)",
     "primer": "This version of a Bench Press uses a close grip to isolate the triceps as well as working the chest.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "triceps brachii"
     ],

@@ -3,7 +3,9 @@
     "name": "alternating-biceps-curl-with-dumbbell",
     "title": "Alternating Bicep Curl with Dumbbell",
     "primer": "This exercise is a single arm version of a biceps curl.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

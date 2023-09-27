@@ -3,7 +3,9 @@
     "name": "seated-cable-rows",
     "title": "Seated Cable Rows",
     "primer": "This is an exercise for middle back, biceps and lower back strengthening.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "latissimus dorsi"
     ],

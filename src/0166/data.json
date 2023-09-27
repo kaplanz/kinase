@@ -3,7 +3,9 @@
     "name": "one-arm-tricep-extension-with-cable",
     "title": "One Arm Tricep Extension with Cable",
     "primer": "This exercise isolates the triceps muscles individually.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

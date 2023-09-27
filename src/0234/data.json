@@ -3,7 +3,9 @@
     "name": "lying-high-bench-biceps-curl-with-barbell",
     "title": "Lying High Bench Biceps Curl with Barbell",
     "primer": "",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

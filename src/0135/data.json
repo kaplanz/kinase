@@ -3,7 +3,9 @@
     "name": "hip-adduction",
     "title": "Hip Adduction",
     "primer": "This exercises strengthens hip flexors and muscles of the thighs.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "quadriceps"
     ],

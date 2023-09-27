@@ -3,7 +3,9 @@
     "name": "crunches",
     "title": "Crunches",
     "primer": "",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "abdominals"
     ],

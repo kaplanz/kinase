@@ -3,7 +3,9 @@
     "name": "side-bend-with-dumbbell",
     "title": "Side Bend with Dumbbell",
     "primer": "This exercise works the obliques, the muscles on the sides of your abs.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "abdominals"
     ],

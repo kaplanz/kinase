@@ -3,7 +3,9 @@
     "name": "seated-leg-curl",
     "title": "Seated Leg Curl",
     "primer": "This is an exercise for hamstring strengthening which is similar to the laying leg curls.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "ischiocrural muscles"
     ],

@@ -3,7 +3,9 @@
     "name": "walking-lunges",
     "title": "Lunges: Dumbbell (Walking)",
     "primer": "A walking lunge gives you the benefit of lunges plus core muscle training from the constant motion.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "ischiocrural muscles"
     ],

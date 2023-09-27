@@ -3,7 +3,9 @@
     "name": "upright-band-rows",
     "title": "Upright Band Rows",
     "primer": "This is an exercise for lats, triceps and shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "latissimus dorsi"
     ],

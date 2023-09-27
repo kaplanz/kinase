@@ -3,7 +3,9 @@
     "name": "seated-inner-biceps-curl-with-dumbbell",
     "title": "Seated Inner Biceps Curl with Dumbbell",
     "primer": "This exercise works the inner biceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

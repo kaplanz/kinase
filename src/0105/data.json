@@ -3,7 +3,9 @@
     "name": "supermans",
     "title": "Supermans",
     "primer": "This is an excellent exercise and a stretch for the lower back and core muscles.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "erector spinae"
     ],

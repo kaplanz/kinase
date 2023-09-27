@@ -3,7 +3,9 @@
     "name": "standing-barbell-calf-raise",
     "title": "Standing Barbell Calf Raise",
     "primer": "This is standing version of a Calf Raise.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "gastrocnemius",
         "soleus"

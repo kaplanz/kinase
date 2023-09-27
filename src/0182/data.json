@@ -3,7 +3,9 @@
     "name": "lying-triceps-extension-across-face-with-dumbbell",
     "title": "Triceps Extension: Dumbbell (Lying, Across Face)",
     "primer": "This is an advanced Triceps exercise and should be avoided by beginners.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

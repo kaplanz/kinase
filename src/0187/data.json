@@ -3,7 +3,9 @@
     "name": "single-arm-supinated-triceps-extension-with-dumbbell",
     "title": "Triceps Extension: Dumbbell (Single Arm, Supinated)",
     "primer": "This exercise is similar to the Single Arm Pronated Triceps Extension except the movement is over the head instead of across the chest.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

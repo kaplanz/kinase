@@ -3,7 +3,9 @@
     "name": "standing-triceps-extension-2",
     "title": "Triceps Extension: Dumbbell (Standing)",
     "primer": "This exercise works the triceps by reaching behind your neck.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

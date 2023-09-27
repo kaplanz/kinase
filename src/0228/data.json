@@ -3,7 +3,9 @@
     "name": "flexor-incline-curls-with-dumbbell",
     "title": "Flexor Incline Curls with Dumbbell",
     "primer": "This exercise was designed to keep the stress on the biceps.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

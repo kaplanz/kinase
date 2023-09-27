@@ -3,7 +3,9 @@
     "name": "two-arm-preacher-curl-with-dumbbell",
     "title": "Preacher Curl: Dumbbell (Two Arm)",
     "primer": "This version of a Preacher Curl uses a special bench and dumbbells.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

@@ -3,7 +3,9 @@
     "name": "lying-incline-curl-with-barbell",
     "title": "Lying Incline Curl with Barbell",
     "primer": "",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

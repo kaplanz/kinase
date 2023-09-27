@@ -3,7 +3,9 @@
     "name": "flutter-kicks",
     "title": "Flutter Kicks",
     "primer": "This is an exercise for quadriceps and hamstring strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "ischiocrural muscles"
     ],

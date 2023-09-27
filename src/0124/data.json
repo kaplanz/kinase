@@ -3,7 +3,9 @@
     "name": "smith-machine-squats",
     "title": "Squats: Smith Machine",
     "primer": "This exercise is a variation of a squat using the Smith Machine.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

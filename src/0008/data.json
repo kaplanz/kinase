@@ -3,7 +3,9 @@
     "name": "front-cable-raises",
     "title": "Front Cable Raises",
     "primer": "An exercise for shoulders, chest and forearm strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

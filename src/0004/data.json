@@ -3,7 +3,9 @@
     "name": "seated-military-press",
     "title": "Seated Military Press",
     "primer": "An exercise for the shoulder and triceps strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "deltoid"
     ],

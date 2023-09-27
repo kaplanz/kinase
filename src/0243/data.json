@@ -3,7 +3,9 @@
     "name": "seated-biceps-curl-with-dumbbell",
     "title": "Seated Bicep Curl with Dumbbell",
     "primer": "This exercise is a seated biceps curl using dumbbells.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

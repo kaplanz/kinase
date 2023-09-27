@@ -3,7 +3,9 @@
     "name": "triceps-pushdown-with-cable",
     "title": "Triceps Pushdown: Cable",
     "primer": "This exercise is the original version of the triceps pushdown.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "triceps brachii"
     ],

@@ -3,7 +3,9 @@
     "name": "knee-circles",
     "title": "Knee Circles",
     "primer": "This is a simple exercise and a great stretch.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "gastrocnemius",
         "soleus"

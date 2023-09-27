@@ -3,7 +3,9 @@
     "name": "hyperextensions",
     "title": "Hyperextensions",
     "primer": "This exercise not only adds strength but also flexibility to the back and core muscles.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "erector spinae"
     ],

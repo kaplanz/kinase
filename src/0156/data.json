@@ -3,7 +3,9 @@
     "name": "thigh-abductor",
     "title": "Thigh Abductor",
     "primer": "This exercise targets and works the muscles of the outer thigh.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "quadriceps"
     ],

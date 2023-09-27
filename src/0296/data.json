@@ -3,7 +3,9 @@
     "name": "exercise-ball-pull-in",
     "title": "Exercise Ball Pull In",
     "primer": "This exercise uses a ball to isolate and work the lower abdominal muscles.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "abdominals"
     ],

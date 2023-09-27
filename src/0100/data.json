@@ -3,7 +3,9 @@
     "name": "smith-machine-dead-lifts",
     "title": "Dead Lifts: Smith Machine",
     "primer": "This is the same as a Dead Lift but the Smith Machine allows for better control of the weight.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "erector spinae"
     ],

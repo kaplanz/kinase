@@ -3,7 +3,9 @@
     "name": "bridging",
     "title": "Bridging",
     "primer": "This is an excellent exercise for strengthening and maintaining the core muscles.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "glutaeus maximus"
     ],

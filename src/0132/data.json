@@ -3,7 +3,9 @@
     "name": "single-leg-squat-with-barbell",
     "title": "Single Leg Squat with Barbell",
     "primer": "This is an advanced exercise and modification of the basic squat.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

@@ -3,7 +3,9 @@
     "name": "flat-bench-cable-flys",
     "title": "Flat Bench Cable Flys",
     "primer": "This is an exercise for chest and shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

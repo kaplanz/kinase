@@ -3,7 +3,9 @@
     "name": "wide-grip-decline-bench-press",
     "title": "Bench Press: Barbell (Decline, Wide Grip)",
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "pectoralis major"
     ],

@@ -3,7 +3,9 @@
     "name": "cross-body-hammer-curl-with-dumbbell",
     "title": "Cross Body Hammer Curl with Dumbbell",
     "primer": "This exercise targets the biceps using a crossing motion rather than a standard curl.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

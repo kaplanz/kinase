@@ -3,7 +3,9 @@
     "name": "standing-calf-raises-using-machine",
     "title": "Standing Calf Raises using Machine",
     "primer": "This exercise uses a machine to allow for proper form.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "gastrocnemius",
         "soleus"

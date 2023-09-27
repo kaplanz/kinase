@@ -3,7 +3,9 @@
     "name": "one-arm-bicep-concentration-on-stability-ball-with-dumbbell",
     "title": "One Arm Bicep Concentration on Stability Ball with Dumbbell",
     "primer": "This exercise uses a Stability Ball instead of a bench for better form.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

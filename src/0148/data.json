@@ -3,7 +3,9 @@
     "name": "one-arm-snatch-with-barbell",
     "title": "One Arm Snatch with Barbell",
     "primer": "This is an advanced exercise that works most of the muscles of the body.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

@@ -3,7 +3,9 @@
     "name": "one-arm-side-deadlift-with-barbell",
     "title": "Dead Lift: Barbell (One Arm Side)",
     "primer": "This is an advanced exercise that works most of the muscles of the body.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

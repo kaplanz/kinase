@@ -3,7 +3,9 @@
     "name": "narrow-stance-squat-with-barbell",
     "title": "Narrow Stance Squat with Barbell",
     "primer": "This version of the Squat targets and defines more of the externals leg muscles.",
-    "type": "compound",
+    "type": [
+        "compound"
+    ],
     "primary": [
         "quadriceps"
     ],

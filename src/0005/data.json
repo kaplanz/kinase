@@ -3,7 +3,9 @@
     "name": "shoulder-shrugs",
     "title": "Shoulder Shrugs: Dumbbell",
     "primer": "An exercise for trapezius strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "trapezius"
     ],

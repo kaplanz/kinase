@@ -3,7 +3,9 @@
     "name": "incline-inner-biceps-curl-with-dumbbell-2",
     "title": "Incline Inner Biceps Curl with Dumbbell",
     "primer": "This exercise uses an incline bench and twist to more to change your body’s position as you perform Biceps Curls.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],

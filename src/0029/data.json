@@ -3,7 +3,9 @@
     "name": "t-bar-rows",
     "title": "T-Bar Rows",
     "primer": "This is an exercise for middle back, biceps and shoulder strengthening.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "latissimus dorsi"
     ],

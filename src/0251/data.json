@@ -3,7 +3,9 @@
     "name": "zottman-curl-with-dumbbells",
     "title": "Zottman Curl with Dumbbells",
     "primer": "This is an advanced exercise where you turn the dumbbells up and out.",
-    "type": "isolation",
+    "type": [
+        "isolation"
+    ],
     "primary": [
         "biceps brachii"
     ],
