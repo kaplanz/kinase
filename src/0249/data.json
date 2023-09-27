@@ -22,9 +22,10 @@
         "Grasp a dumbbell in each hand with palms facing up.",
         "Picking up the dumbbells, rest your arms against the bench and extend them fully towards the floor.",
         "Keeping your arms on the bench at all times, curl the weight up towards your head.",
-        "Pause for a moment and then lower the weights back to starting position.",
-        "Note: Perform this exercise in a slow controlled manner for best results."
+        "Pause for a moment and then lower the weights back to starting position."
     ],
-    "tips": [],
+    "tips": [
+        "Perform this exercise in a slow controlled manner for best results."
+    ],
     "references": []
 }

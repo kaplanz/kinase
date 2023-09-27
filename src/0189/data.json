@@ -18,9 +18,10 @@
         "Stand in front of a cable machine and attach a bar to a high pulley.",
         "Grasp the handle with palms facing up.",
         "Keeping your elbows at your side, pull the handle down towards your thighs.",
-        "Pause for a moment and then return to the starting position.",
-        "Note: You may want to stager one foot in front of the other for a better stance."
+        "Pause for a moment and then return to the starting position."
     ],
-    "tips": [],
+    "tips": [
+        "You may want to stager one foot in front of the other for a better stance."
+    ],
     "references": []
 }

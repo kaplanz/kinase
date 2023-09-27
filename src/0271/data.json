@@ -20,9 +20,10 @@
     ],
     "steps": [
         "Place a Balance Board on the floor.",
-        "Step onto the board with both feet and try to balance yourself.",
-        "Note: Keep a slight bend in your knees to help you balance."
+        "Step onto the board with both feet and try to balance yourself."
     ],
-    "tips": [],
+    "tips": [
+        "Keep a slight bend in your knees to help you balance."
+    ],
     "references": []
 }

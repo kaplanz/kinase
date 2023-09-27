@@ -20,9 +20,10 @@
         "Grasp a dumbbell in each hand with palms facing up.",
         "Raise dumbbells over your body. Your arms will be pointed towards the ceiling.",
         "While keeping your upper arms and elbows still, lower the dumbbell slowly over your face bending only your elbow.",
-        "Slowly raise the dumbbell back to the starting position and repeat with your other arm.",
-        "Note: Do not perform this exercise if your arms are fatigued, as you are lifting the weight over your face."
+        "Slowly raise the dumbbell back to the starting position and repeat with your other arm."
     ],
-    "tips": [],
+    "tips": [
+        "Do not perform this exercise if your arms are fatigued, as you are lifting the weight over your face."
+    ],
     "references": []
 }

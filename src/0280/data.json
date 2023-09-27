@@ -19,9 +19,10 @@
         "Place a block or low box under the bar at a Smith Machine.",
         "Stand on the edge of the box with your toes hanging off.",
         "Place the bar across your shoulders and lean forward lifting your ankles off the box.",
-        "Return to the starting position.",
-        "Note: Use the bar for support as you perform this exercise."
+        "Return to the starting position."
     ],
-    "tips": [],
+    "tips": [
+        "Use the bar for support as you perform this exercise."
+    ],
     "references": []
 }

@@ -20,9 +20,10 @@
         "Bend forward at your waist keeping your back straight.",
         "Grasp a barbell in your hands with a close grip approximately 6 inches apart with your palms facing up.",
         "With your elbow pressed against your inner thigh, curl the bar up towards your chest.",
-        "Slowly lower the bar to the starting position near the floor.",
-        "Note: Keep all of your body still except the arm you are exercising."
+        "Slowly lower the bar to the starting position near the floor."
     ],
-    "tips": [],
+    "tips": [
+        "Keep all of your body still except the arm you are exercising."
+    ],
     "references": []
 }

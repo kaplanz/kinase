@@ -24,9 +24,10 @@
         "With your feet firmly placed on the floor reach down and grasp the bar from behind, with an overhand grip.",
         "Lift the bar by extending your hips and knees, taking care not to lock your knees.",
         "Lower yourself (squat) down until your thighs are parallel to the floor.",
-        "Slowly raise yourself up to starting position.",
-        "Note: Your knees should be moving in the same direction as your feet."
+        "Slowly raise yourself up to starting position."
     ],
-    "tips": [],
+    "tips": [
+        "Your knees should be moving in the same direction as your feet."
+    ],
     "references": []
 }

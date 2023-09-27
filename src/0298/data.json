@@ -22,9 +22,10 @@
         "Grasp the bar a bit wider than shoulder width apart with an overhand grip.",
         "Hold the bar at arms length, this is starting position.",
         "Slowly raise the bar to the lower part of your chest.",
-        "Pause for a moment than return to starting position.",
-        "Note: Keep your head up and your back straight while performing."
+        "Pause for a moment than return to starting position."
     ],
-    "tips": [],
+    "tips": [
+        "Keep your head up and your back straight while performing."
+    ],
     "references": []
 }

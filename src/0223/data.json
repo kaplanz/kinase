@@ -21,9 +21,10 @@
         "Grasp a dumbbell in each hand so your palms are facing up.",
         "Extend your arms so they are at the sides of your body.",
         "Keeping your elbows locked lift your left arm to your chest so that your forearm touches your bicep.",
-        "Lower your arm and repeat with your right arm.",
-        "Note: Do not swing your body as you perform this exercise."
+        "Lower your arm and repeat with your right arm."
     ],
-    "tips": [],
+    "tips": [
+        "Do not swing your body as you perform this exercise."
+    ],
     "references": []
 }

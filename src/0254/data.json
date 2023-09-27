@@ -21,9 +21,10 @@
         "Grasp an Olympic bar (empty weight bar) in the middle with one hand so that the bar is equally balanced.",
         "Keep your free hand at your side for support.",
         "Curl the bar up so your forearm touches your bicep.",
-        "Slowly lower the bar and change arms.",
-        "Note: If an Olympic bar is too heavy use a lighter weight barbell."
+        "Slowly lower the bar and change arms."
     ],
-    "tips": [],
+    "tips": [
+        "If an Olympic bar is too heavy use a lighter weight barbell."
+    ],
     "references": []
 }

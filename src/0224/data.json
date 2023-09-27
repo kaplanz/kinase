@@ -21,9 +21,10 @@
         "Grasp a dumbbell in each hand with your palms facing up.",
         "Extend your arms so they are at the sides of your body.",
         "Keeping your elbows, locked lift your arms to your chest so that your forearms touch your biceps.",
-        "In a slow controlled manner, lower your arms to the starting position.",
-        "Note: Do not swing your body as you perform this exercise."
+        "In a slow controlled manner, lower your arms to the starting position."
     ],
-    "tips": [],
+    "tips": [
+        "Do not swing your body as you perform this exercise."
+    ],
     "references": []
 }

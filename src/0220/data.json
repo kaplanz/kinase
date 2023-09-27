@@ -21,9 +21,10 @@
         "Grasp a dumbbell in your hand, palms facing up.",
         "With your elbow pressed against your inner thigh, curl the dumbbell up towards your chest.",
         "Slowly return to the starting position.",
-        "Repeat and switch arms.",
-        "Note: Keep all of your body still except the arm you are exercising."
+        "Repeat and switch arms."
     ],
-    "tips": [],
+    "tips": [
+        "Keep all of your body still except the arm you are exercising."
+    ],
     "references": []
 }

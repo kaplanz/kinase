@@ -22,9 +22,10 @@
         "Sit on one bench and place your feet on the edge of the other bench so that your legs are suspended between the 2 benches.",
         "Cross your feet for support.",
         "Hold onto the bench with your hands for support and slowly lower body towards the floor by bending your elbows.",
-        "Pause and then return to starting position.",
-        "Note: Do not go below a 90 degree angle as this can cause on your shoulders."
+        "Pause and then return to starting position."
     ],
-    "tips": [],
+    "tips": [
+        "Do not go below a 90 degree angle as this can cause on your shoulders."
+    ],
     "references": []
 }

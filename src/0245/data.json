@@ -20,9 +20,10 @@
         "Grasp a barbell with palms up, approximately 6 inches apart.",
         "Leaning against the bench, lower the bar along the flat side of the bench fully extending your arms.",
         "Curl your arms up so your biceps are touching your forearms.",
-        "Slowly lower the bar to the starting position.",
-        "Note: Use a low weight to get used to the motion of this exercise."
+        "Slowly lower the bar to the starting position."
     ],
-    "tips": [],
+    "tips": [
+        "Use a low weight to get used to the motion of this exercise."
+    ],
     "references": []
 }
