@@ -16,8 +16,6 @@
         "v-bar"
     ],
     "steps": [
-        "This exercise is the triceps pushdown uses a V-shaped bar. Many people find this version easier on the elbows.",
-        "Steps",
         "Stand in front of a cable machine and attach a V-Bar to a high pulley.",
         "Grasp the bar with palms facing down.",
         "Draw your abs in and keep your back straight.",
@@ -25,6 +23,8 @@
         "Pause for a moment and then return to the starting position.",
         "Note: You may want to stager one foot in front of the other for a better stance."
     ],
-    "tips": [],
+    "tips": [
+        "Many people find this version easier on the elbows."
+    ],
     "references": []
 }
