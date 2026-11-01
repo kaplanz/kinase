@@ -1,7 +1,7 @@
 {
     "id": "0071",
-    "name": "one-arm-flat-bench-flys",
-    "title": "One Arm Flat Bench Flys",
+    "name": "fly-dumbbell-one-arm",
+    "title": "Fly: Dumbbell (One Arm)",
     "primer": "This is an exercise for chest strengthening.",
     "type": [
         "isolation"
@@ -17,9 +17,8 @@
     ],
     "steps": [
         "Lie on a flat bench with your free hand holding the bench.",
-        "Grasp the dumbbell in your other hand and with your forearm parallel to the floor raise your arm in an arc the middle of your chest.",
-        "Once the dumbbell is at the middle of your chest line, slowly lower is along the same path to starting position.",
-        "Repeat."
+        "Grasp the dumbbell in your other hand and with your forearm parallel to the floor raise your arm in an arc to the middle of your chest.",
+        "Once the dumbbell is at the middle of your chest line, slowly lower it along the same path to the starting position."
     ],
     "tips": [],
     "references": []

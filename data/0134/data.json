@@ -1,7 +1,7 @@
 {
     "id": "0134",
-    "name": "step-ups-with-barbell",
-    "title": "Step Ups: Barbell",
+    "name": "step-up-barbell",
+    "title": "Step-Up: Barbell",
     "primer": "This exercise builds coordination as well as muscle.",
     "type": [
         "compound"
@@ -11,12 +11,13 @@
         "quadriceps"
     ],
     "secondary": [
-        "ischiocrural muscles",
+        "hamstrings",
         "gastrocnemius",
         "soleus"
     ],
     "equipment": [
-        "barbell"
+        "barbell",
+        "bench"
     ],
     "steps": [
         "Place a bench, box or step in front of you.",

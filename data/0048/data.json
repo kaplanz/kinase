@@ -1,7 +1,7 @@
 {
     "id": "0048",
-    "name": "cable-crossover",
-    "title": "Cable Crossover",
+    "name": "crossover-cable",
+    "title": "Crossover: Cable",
     "primer": "This is an exercise for chest and shoulder strengthening.",
     "type": [
         "isolation"
@@ -18,10 +18,10 @@
     ],
     "steps": [
         "Attach the cable pulley to shoulder height.",
-        "Grasp the pulley in both hands and stand approximately one foot in front of the weight stacks, with one foot slightly in front of the other.",
-        "With a slight bend in your elbows bring your hand together in front of your chest on downward angle.",
+        "Grasp a pulley in each hand and stand approximately one foot in front of the weight stacks, with one foot slightly in front of the other.",
+        "With a slight bend in your elbows bring your hands together in front of your chest at a downward angle.",
         "When your hands meet at the midpoint of your chest, hold for a moment.",
-        "With a slow controlled motion return to starting position."
+        "With a slow controlled motion return to the starting position."
     ],
     "tips": [],
     "references": []

@@ -1,7 +1,7 @@
 {
     "id": "0183",
-    "name": "lying-triceps-press-with-barbell",
-    "title": "Lying Triceps Press with Barbell",
+    "name": "triceps-extension-ez-bar-lying",
+    "title": "Triceps Extension: EZ Bar (Lying)",
     "primer": "This is another classic exercise for building the triceps.",
     "type": [
         "isolation"
@@ -14,7 +14,8 @@
         "pectoralis major"
     ],
     "equipment": [
-        "barbell"
+        "barbell",
+        "flat bench"
     ],
     "steps": [
         "Lie on a flat bench with your head at one end.",
@@ -24,7 +25,7 @@
         "Return the bar to the starting position."
     ],
     "tips": [
-        "Keep your arms straight throughout this exercise moving only your elbows."
+        "Keep your upper arms still throughout this exercise, moving only at your elbows."
     ],
     "references": []
 }

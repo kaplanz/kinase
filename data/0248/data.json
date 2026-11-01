@@ -1,7 +1,7 @@
 {
     "id": "0248",
-    "name": "standing-one-arm-curl-over-incline-bench-with-dumbbell",
-    "title": "Standing One Arm Curl Over Incline Bench with Dumbbell",
+    "name": "biceps-curl-dumbbell-standing-one-arm-over-incline-bench",
+    "title": "Biceps Curl: Dumbbell (Standing, One Arm, Over Incline Bench)",
     "primer": "This exercise is a great alternative to the Preacher Curl.",
     "type": [
         "isolation"
@@ -14,14 +14,15 @@
         "forearm"
     ],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "incline bench"
     ],
     "steps": [
         "Stand in front of an incline bench so your arm is resting on the top of the angled portion of the bench.",
         "Grasp a dumbbell in your hand with palms facing up.",
-        "Rest your arm against the back bench and extend it fully down.",
+        "Rest your arm against the back of the bench and extend it fully down.",
         "Keeping your arm on the bench at all times, curl the dumbbell up towards your head.",
-        "Pause for a moment and then lower the dumbbell back to starting position.",
+        "Pause for a moment and then lower the dumbbell back to the starting position.",
         "Switch arms and repeat."
     ],
     "tips": [

@@ -1,10 +1,10 @@
 {
     "id": "0028",
     "name": "rear-deltoid-row-barbell",
-    "title": "Rear Deltoid Row Barbell",
+    "title": "Rear Deltoid Row: Barbell",
     "primer": "This is an exercise for shoulder and biceps strengthening.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "shoulders",
     "primary": [
@@ -17,12 +17,11 @@
         "barbell"
     ],
     "steps": [
-        "Place a barbell on the floor in front of you with the resided weights attached.",
+        "Place a barbell on the floor in front of you with the desired weights attached.",
         "With your knees bent and back straight grasp the bar with a wide overhand grip (palms facing downwards).",
         "Keep your chest steady and your arms perpendicular to your chest.",
         "Pull the bar as far up to your chest as you can.",
-        "Hold for a moment than lower the bar in a controlled manner.",
-        "Repeat."
+        "Hold for a moment then lower the bar in a controlled manner."
     ],
     "tips": [],
     "references": []

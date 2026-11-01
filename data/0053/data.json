@@ -1,7 +1,7 @@
 {
     "id": "0053",
-    "name": "decline-dumbbell-flys",
-    "title": "Decline Dumbbell Flys",
+    "name": "fly-dumbbell-decline",
+    "title": "Fly: Dumbbell (Decline)",
     "primer": "This is an exercise for chest and shoulder strengthening.",
     "type": [
         "isolation"
@@ -14,15 +14,14 @@
         "deltoid"
     ],
     "equipment": [
-        "dumbbells",
+        "dumbbell",
         "decline bench"
     ],
     "steps": [
         "Lie on a decline bench with your head lower than your body and your feet firmly on the ground.",
-        "With dumbbells together above your shoulders and your arms straight out above you as your starting position.",
-        "Keeping your arms straight and with a slight bend in your elbows lower the dumbbells down towards the floor in an arc, up until just above your shoulders.",
-        "Return to the starting position in a slow controlled manner.",
-        "Repeat."
+        "Hold the dumbbells together above your shoulders with your arms straight out above you. This is your starting position.",
+        "Keeping your arms straight and with a slight bend in your elbows lower the dumbbells down towards the floor in an arc, until they are level with your shoulders.",
+        "Return to the starting position in a slow controlled manner."
     ],
     "tips": [],
     "references": []

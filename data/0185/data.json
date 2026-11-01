@@ -1,7 +1,7 @@
 {
     "id": "0185",
-    "name": "old-school-reverse-extensions",
-    "title": "Old School Reverse Extensions",
+    "name": "triceps-extension-barbell-lying-reverse-grip",
+    "title": "Triceps Extension: Barbell (Lying, Reverse Grip)",
     "primer": "As the name suggests, this is an old classic exercise that hits the triceps hard.",
     "type": [
         "isolation"
@@ -12,7 +12,8 @@
     ],
     "secondary": [],
     "equipment": [
-        "barbell"
+        "barbell",
+        "bench"
     ],
     "steps": [
         "Lie down on a bench, on your back, with your head at one end.",

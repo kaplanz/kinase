@@ -1,7 +1,7 @@
 {
     "id": "0047",
-    "name": "butterfly-machine",
-    "title": "Butterfly Machine",
+    "name": "fly-machine",
+    "title": "Fly: Machine",
     "primer": "This is an exercise for chest strengthening.",
     "type": [
         "isolation"
@@ -15,12 +15,11 @@
         "butterfly machine"
     ],
     "steps": [
-        "Adjust the machine so you are sitting at chest heights with the pads.",
+        "Adjust the machine so the pads are at chest height when you sit.",
         "Sit on the machine with your back flat.",
-        "Place your forearms on the pads, parallel to the floor, this is starting position.",
+        "Place your forearms on the pads, parallel to the floor. This is the starting position.",
         "Using your forearms, push the pads together slowly as you squeeze your chest.",
-        "Return your arms to the stretched out starting position in a controlled motion.",
-        "Repeat."
+        "Return your arms to the stretched out starting position in a controlled motion."
     ],
     "tips": [],
     "references": []

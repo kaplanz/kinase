@@ -1,8 +1,8 @@
 {
     "id": "0035",
-    "name": "seated-rear-lateral-cable-raise",
-    "title": "Seated Rear Lateral Cable Raise",
-    "primer": "Tis is an exercise for shoulder strengthening.",
+    "name": "rear-lateral-raise-cable-seated",
+    "title": "Rear Lateral Raise: Cable (Seated)",
+    "primer": "This is an exercise for shoulder strengthening.",
     "type": [
         "isolation"
     ],
@@ -12,14 +12,14 @@
     ],
     "secondary": [],
     "equipment": [
-        "cable machine"
+        "cable machine",
+        "bench"
     ],
     "steps": [
         "Sit on the edge of a bench with your feet on the floor in front of you.",
-        "Rest your chest on your thighs with your back straight, grasp the cable pulleys with opposite hands.",
+        "Rest your chest on your thighs with your back straight, and grasp the cable pulleys with opposite hands.",
         "Raise your upper arms to shoulder height. Pause at the top for a moment.",
-        "Lower your arms to the starting position in a controlled motion.",
-        "Repeat."
+        "Lower your arms to the starting position in a controlled motion."
     ],
     "tips": [],
     "references": []

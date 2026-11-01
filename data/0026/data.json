@@ -1,10 +1,10 @@
 {
     "id": "0026",
-    "name": "reverse-grips-bent-over-barbell-rows",
-    "title": "Reverse Grips Bent Over Barbell Rows",
+    "name": "row-barbell-bent-over-reverse-grip",
+    "title": "Row: Barbell (Bent-Over, Reverse Grip)",
     "primer": "This is an exercise for middle back and biceps strengthening.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "back",
     "primary": [
@@ -17,11 +17,10 @@
         "barbell"
     ],
     "steps": [
-        "Bend over a barbell at slight angle with your knees bent and your back straight.",
+        "Bend over a barbell at a slight angle with your knees bent and your back straight.",
         "Grasp the bar with a reverse grip (palms facing up) and slowly pull the barbell to your abs, keeping your elbows close to your sides.",
         "Pause for a moment at the top.",
-        "Return the barbell to the starting position.",
-        "Repeat."
+        "Return the barbell to the starting position."
     ],
     "tips": [
         "Ensure that the weight of the barbell is evenly distributed through both hands."

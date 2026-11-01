@@ -1,17 +1,17 @@
 {
     "id": "0101",
-    "name": "barbell-good-mornings",
-    "title": "Good Mornings: Barbell",
+    "name": "good-morning-barbell",
+    "title": "Good Morning: Barbell",
     "primer": "This is one of the oldest exercises in bodybuilding but it still is one of the best for working the lower back.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "back",
     "primary": [
         "erector spinae"
     ],
     "secondary": [
-        "ischiocrural muscles"
+        "hamstrings"
     ],
     "equipment": [
         "barbell"
@@ -19,8 +19,7 @@
     "steps": [
         "Place a barbell across your shoulders.",
         "Keeping your head up and your back completely straight, bend at the waist until your back is parallel with the floor.",
-        "Return to starting position.",
-        "Repeat."
+        "Return to the starting position."
     ],
     "tips": [],
     "references": []

@@ -1,20 +1,18 @@
 {
     "id": "0118",
-    "name": "romanian-dead-lift",
-    "title": "Romanian Dead Lift",
-    "primer": "This is an exercise similar to the regular dead lift and strengthens the hamstring, calves, quadriceps, and gluts.",
+    "name": "romanian-deadlift",
+    "title": "Romanian Deadlift",
+    "primer": "This is an exercise similar to the regular deadlift and strengthens the hamstrings, glutes, and lower back.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "legs",
     "primary": [
-        "ischiocrural muscles"
+        "hamstrings"
     ],
     "secondary": [
-        "gastrocnemius",
-        "soleus",
-        "quadriceps",
-        "glutaeus maximus"
+        "gluteus maximus",
+        "erector spinae"
     ],
     "equipment": [
         "barbell"

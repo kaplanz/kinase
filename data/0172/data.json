@@ -1,7 +1,7 @@
 {
     "id": "0172",
-    "name": "tricep-dips-using-body-weight",
-    "title": "Triceps Dips: Body Weight",
+    "name": "triceps-dip",
+    "title": "Triceps Dip",
     "primer": "This classic exercise uses the weight of your own body to work your triceps.",
     "type": [
         "compound"
@@ -15,7 +15,7 @@
         "pectoralis major"
     ],
     "equipment": [
-        "body"
+        "parallel bars"
     ],
     "steps": [
         "Grasp a set of parallel bars and push yourself up to the starting position.",

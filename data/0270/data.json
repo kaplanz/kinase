@@ -1,7 +1,7 @@
 {
     "id": "0270",
-    "name": "ankle-circles",
-    "title": "Ankle Circles",
+    "name": "ankle-circle",
+    "title": "Ankle Circle",
     "primer": "This is the most simple of all exercises for the calves.",
     "type": [
         "isolation"
@@ -18,7 +18,7 @@
     "steps": [
         "Stand on one foot near a chair or wall for support.",
         "Lift your foot off the ground and draw circles clockwise in the air with your toes.",
-        "Reverse the direction (counter-clockwise) as well as switch feet."
+        "Reverse the direction (counter-clockwise), then switch feet."
     ],
     "tips": [],
     "references": []

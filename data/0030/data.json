@@ -1,7 +1,7 @@
 {
     "id": "0030",
-    "name": "barbell-shrugs",
-    "title": "Barbell Shrugs",
+    "name": "shoulder-shrug-barbell",
+    "title": "Shoulder Shrug: Barbell",
     "primer": "This is an exercise for trapezius strengthening.",
     "type": [
         "isolation"
@@ -16,11 +16,10 @@
     ],
     "steps": [
         "Stand on the floor with your abs drawn in and your back straight.",
-        "Grasp a barbell with a grip a little wider than shoulder width at arms length.",
+        "Grasp a barbell with a grip a little wider than shoulder width at arm's length.",
         "Drop your shoulders as much as possible to start.",
-        "Raise your shoulder as high as possible.",
-        "Pause for a moment at the top and then return to starting position in a controlled motion.",
-        "Repeat."
+        "Raise your shoulders as high as possible.",
+        "Pause for a moment at the top and then return to the starting position in a controlled motion."
     ],
     "tips": [
         "Do not arch your back at all during the exercise."

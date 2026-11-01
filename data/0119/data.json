@@ -1,14 +1,14 @@
 {
     "id": "0119",
-    "name": "seated-leg-curl",
-    "title": "Seated Leg Curl",
-    "primer": "This is an exercise for hamstring strengthening which is similar to the laying leg curls.",
+    "name": "leg-curl-machine-seated",
+    "title": "Leg Curl: Machine (Seated)",
+    "primer": "This is an exercise for hamstring strengthening which is similar to the lying leg curls.",
     "type": [
         "isolation"
     ],
     "part": "legs",
     "primary": [
-        "ischiocrural muscles"
+        "hamstrings"
     ],
     "secondary": [],
     "equipment": [

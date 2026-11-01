@@ -1,10 +1,10 @@
 {
     "id": "0107",
-    "name": "dumbbell-dead-lifts",
-    "title": "Dead Lifts: Dumbbell",
+    "name": "deadlift-dumbbell",
+    "title": "Deadlift: Dumbbell",
     "primer": "This is an exercise for lower back, hamstring, and calves strengthening.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "back",
     "primary": [
@@ -13,19 +13,18 @@
     "secondary": [
         "gastrocnemius",
         "soleus",
-        "ischiocrural muscles"
+        "hamstrings"
     ],
     "equipment": [
-        "dumbbells"
+        "dumbbell"
     ],
     "steps": [
-        "Grasp 2 dumbbells and stand with your feet shoulder width apart.",
-        "Keeping your back straight bend at the waist, allow some bend in your knees.",
+        "Place 2 dumbbells on the floor in front of you and stand with your feet shoulder width apart.",
+        "Keeping your back straight, bend at the waist, allowing some bend in your knees.",
         "Grasp the dumbbells with an overhand grip in each hand.",
         "Straighten your back as you hold the dumbbells at arm's length.",
         "Bend over again lowering the dumbbells to just above the floor.",
-        "Return to starting position.",
-        "Repeat."
+        "Return to the starting position."
     ],
     "tips": [
         "Do not increase the weight on this exercise until you have mastered the correct form."

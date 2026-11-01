@@ -1,18 +1,16 @@
 {
     "id": "0156",
-    "name": "thigh-abductor",
-    "title": "Thigh Abductor",
+    "name": "hip-abduction-machine",
+    "title": "Hip Abduction: Machine",
     "primer": "This exercise targets and works the muscles of the outer thigh.",
     "type": [
         "isolation"
     ],
     "part": "legs",
     "primary": [
-        "quadriceps"
+        "hip abductors"
     ],
-    "secondary": [
-        "ischiocrural muscles"
-    ],
+    "secondary": [],
     "equipment": [
         "machine"
     ],

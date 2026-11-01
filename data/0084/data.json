@@ -1,10 +1,10 @@
 {
     "id": "0084",
-    "name": "incline-chest-press",
-    "title": "Incline Chest Press",
+    "name": "chest-press-machine-incline",
+    "title": "Chest Press: Machine (Incline)",
     "primer": "This exercise is for strengthening the upper chest and is preferred among beginners as it provides support and control.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "chest",
     "primary": [
@@ -19,8 +19,8 @@
     ],
     "steps": [
         "Adjust the seat of the machine so that the handles are near the upper portion of your chest.",
-        "Slowly press the handles forward until your hands are fully extended, do not lock your elbows.",
-        "Pause for a moment and then with a controlled movement lower your hands back to starting position."
+        "Slowly press the handles forward until your arms are fully extended. Do not lock your elbows.",
+        "Pause for a moment and then with a controlled movement lower your hands back to the starting position."
     ],
     "tips": [],
     "references": []

@@ -1,10 +1,10 @@
 {
     "id": "0069",
-    "name": "bosu-ball-push-up",
-    "title": "Push Up: Bosu Ball",
+    "name": "push-up-bosu-ball",
+    "title": "Push-Up: Bosu Ball",
     "primer": "This is an exercise for chest, core, shoulders, and triceps strengthening with the use of a Bosu ball.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "chest",
     "primary": [
@@ -12,7 +12,7 @@
     ],
     "secondary": [
         "deltoid",
-        "core",
+        "abdominals",
         "triceps brachii"
     ],
     "equipment": [
@@ -20,14 +20,13 @@
     ],
     "steps": [
         "Place the Bosu ball flat side down on the floor.",
-        "Kneel on the floor with your arms fully extended on the ball, and body straight.",
-        "Keeping your abs drawn in and your body straight, by bending your elbows lower your chest to the ball.",
-        "Pause for a moment and then return to starting position.",
-        "Repeat."
+        "Get into a push-up position with your hands on the ball, your arms fully extended and your body straight.",
+        "Keeping your abs drawn in and your body straight, bend your elbows to lower your chest to the ball.",
+        "Pause for a moment and then return to the starting position."
     ],
     "tips": [
         "Ensure your elbows remain close to your body while lowering your chest to the ball.",
-        "Beginners may want to start on your knees with your feet off the ground so you are rocking into the Push Up."
+        "Beginners may want to start on their knees with your feet off the ground so you are rocking into the Push Up."
     ],
     "references": []
 }

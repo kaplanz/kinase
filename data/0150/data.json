@@ -1,7 +1,7 @@
 {
     "id": "0150",
-    "name": "one-arm-side-deadlift-with-barbell",
-    "title": "Dead Lift: Barbell (One Arm Side)",
+    "name": "deadlift-barbell-one-arm-side",
+    "title": "Deadlift: Barbell (One Arm Side)",
     "primer": "This is an advanced exercise that works most of the muscles of the body.",
     "type": [
         "compound"
@@ -12,22 +12,22 @@
     ],
     "secondary": [
         "abdominals",
-        "glutaeus maximus",
+        "gluteus maximus",
         "gastrocnemius",
         "soleus",
-        "ischiocrural muscles"
+        "hamstrings"
     ],
     "equipment": [
         "barbell"
     ],
     "steps": [
-        "This is an advanced exercise that works most of the muscles of the body. Exercises like this are used to develop functional strength for sports that require strong hands.",
-        "Stand besides a barbell placed on the floor.",
-        "Grasp the bar with an overhand grip in the center.",
-        "Crouching down as if your were performing a squat, bend down so your thighs are parallel with the floor.",
+        "Stand beside a barbell placed on the floor.",
+        "Grasp the bar in the centre with one hand, using an overhand grip.",
+        "Crouching down as if you were performing a squat, bend down so your thighs are parallel with the floor.",
         "Extend your legs slowly as you straighten your body up, drawing in your abs as you rise."
     ],
     "tips": [
+        "Exercises like this are used to develop functional strength for sports that require strong hands.",
         "Perform this exercise with an empty bar to become familiar with the movement before adding weights."
     ],
     "references": []

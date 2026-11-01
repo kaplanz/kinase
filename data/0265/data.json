@@ -1,23 +1,22 @@
 {
     "id": "0265",
-    "name": "forward-lunge-with-biceps-curl-using-dumbbell",
-    "title": "Forward Lunge with Bicep Curl using Dumbbell",
-    "primer": "This exercise combines a forward lunge with a bicep curl.",
+    "name": "lunge-dumbbell-forward-biceps-curl",
+    "title": "Lunge: Dumbbell (Forward, Biceps Curl)",
+    "primer": "This exercise combines a forward lunge with a biceps curl.",
     "type": [
-        "compound",
-        "isolation"
+        "compound"
     ],
     "part": "arms",
     "primary": [
         "biceps brachii"
     ],
     "secondary": [
+        "quadriceps",
         "gastrocnemius",
         "soleus",
-        "hip abductors",
         "forearm",
-        "ischiocrural muscles",
-        "glutaeus maximus"
+        "hamstrings",
+        "gluteus maximus"
     ],
     "equipment": [
         "dumbbell"
@@ -27,12 +26,12 @@
         "Stand with your feet together, your back straight and your abs drawn in.",
         "Allow your arms to extend down fully to the sides of your body.",
         "While keeping your body straight, take a step forward then bend your waist and your knee into a lunge.",
-        "Be careful not to let your back knee drop to the floor.",
         "As you go into the lunge, curl your arms up towards your shoulders, contracting your biceps.",
-        "Return to starting position and switch legs."
+        "Return to the starting position and switch legs."
     ],
     "tips": [
-        "Have a Personal Trainer or Instructor show you how to properly perform this exercise."
+        "Have a Personal Trainer or Instructor show you how to properly perform this exercise.",
+        "Be careful not to let your back knee drop to the floor."
     ],
     "references": []
 }

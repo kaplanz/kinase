@@ -1,7 +1,7 @@
 {
     "id": "0137",
-    "name": "step-ups-with-dumbbells",
-    "title": "Step Ups: Dumbbell",
+    "name": "step-up-dumbbell",
+    "title": "Step-Up: Dumbbell",
     "primer": "This exercise builds coordination as well as muscle.",
     "type": [
         "compound"
@@ -13,10 +13,11 @@
     "secondary": [
         "gastrocnemius",
         "soleus",
-        "ischiocrural muscles"
+        "hamstrings"
     ],
     "equipment": [
-        "dumbbells"
+        "dumbbell",
+        "bench"
     ],
     "steps": [
         "Place a bench, box or step in front of you.",

@@ -1,7 +1,7 @@
 {
     "id": "0023",
-    "name": "lying-rear-lateral-raise",
-    "title": "Lying Rear Lateral Raise",
+    "name": "rear-lateral-raise-dumbbell-lying",
+    "title": "Rear Lateral Raise: Dumbbell (Lying)",
     "primer": "This is an exercise for shoulder strengthening.",
     "type": [
         "isolation"
@@ -13,15 +13,15 @@
     "secondary": [],
     "equipment": [
         "flat bench",
-        "dumbbells"
+        "dumbbell"
     ],
     "steps": [
         "Place the dumbbells at the head of the bench.",
-        "Lie facedown on a raised bench; raised enough for your arms to move freely beneath the bench.",
-        "Place your toes on the floor in order to stabilise yourself.",
-        "Grasp the dumbbells and with a 30 degree bend in your elbows, this is the starting position.",
+        "Lie facedown on a bench raised enough for your arms to move freely beneath it.",
+        "Place your toes on the floor in order to stabilize yourself.",
+        "Grasp the dumbbells with a 30 degree bend in your elbows. This is the starting position.",
         "Raise your arms to shoulder height, maintaining a controlled motion.",
-        "Return to starting position and repeat."
+        "Return to the starting position and repeat."
     ],
     "tips": [],
     "references": []

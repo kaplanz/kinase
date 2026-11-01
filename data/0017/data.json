@@ -1,7 +1,7 @@
 {
     "id": "0017",
-    "name": "bent-over-lateral-cable-raises",
-    "title": "Bent-over Lateral Cable Raises",
+    "name": "rear-lateral-raise-cable-bent-over",
+    "title": "Rear Lateral Raise: Cable (Bent-Over)",
     "primer": "This is an exercise for shoulder, trapezius, and middle back strengthening.",
     "type": [
         "isolation"
@@ -11,8 +11,7 @@
         "deltoid"
     ],
     "secondary": [
-        "trapezius",
-        "latissimus dorsi"
+        "trapezius"
     ],
     "equipment": [
         "cable machine"
@@ -21,7 +20,7 @@
         "Grasp the handle of the low pulley with your right hand.",
         "Bend forward from the waist; your upper body should be nearly parallel with the floor. Bend your knees slightly and place your left hand on your left thigh. Let your right arm hang from your shoulder in front of you with your elbow slightly bent. This is your starting position.",
         "Lift your right arm, keeping your elbow slightly bent.",
-        "Keep moving your arm until it is parallel to the floor, in line with your right ear.",
+        "Keep moving your arm until it is parallel to the floor, in line with your right shoulder.",
         "Slowly bring the weight back down to the starting position.",
         "Perform exercise on left arm and then repeat."
     ],

@@ -1,7 +1,7 @@
 {
     "id": "0032",
-    "name": "bent-over-rear-deltoid-raise-with-head-on-bench",
-    "title": "Bent Over Rear Deltoid Raise with Head on Bench",
+    "name": "rear-lateral-raise-dumbbell-bent-over-head-on-bench",
+    "title": "Rear Lateral Raise: Dumbbell (Bent-Over, Head on Bench)",
     "primer": "This is an exercise for shoulder strengthening.",
     "type": [
         "isolation"
@@ -12,14 +12,14 @@
     ],
     "secondary": [],
     "equipment": [
-        "dumbbells"
+        "dumbbell",
+        "incline bench"
     ],
     "steps": [
-        "Rest your forehead on an incline bench in order to stabilise your movements so you are bent over with your back parallel to the floor, draw your abs in.",
+        "Rest your forehead on an incline bench in order to stabilize your movements so you are bent over with your back parallel to the floor. Draw your abs in.",
         "Grasp dumbbells in your hands with your arms straight and elbows slightly bent ensuring they are not locked.",
         "Slowly raise the dumbbells up to shoulder height.",
-        "Pause for a moment and then return to the starting position.",
-        "Repeat."
+        "Pause for a moment and then return to the starting position."
     ],
     "tips": [
         "Ensure your back is straight and parallel to the floor throughout the exercise."

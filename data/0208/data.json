@@ -1,7 +1,7 @@
 {
     "id": "0208",
-    "name": "weighted-ball-side-bend",
-    "title": "Weighted Ball Side Bend",
+    "name": "side-bend-stability-ball-with-weight-plate",
+    "title": "Side Bend: Stability Ball with Weight Plate",
     "primer": "This exercise uses a Stability Ball instead of a bench to work the obliques.",
     "type": [
         "isolation"
@@ -16,13 +16,14 @@
         "stability ball"
     ],
     "steps": [
-        "This exercise uses a Stability Ball instead of a bench. The Stability Ball conforms better to your body and allows for correct anatomical range of movement.",
-        "Lie one side of your torso, and with your waist and hip against a Stability Ball, position your feet on the floor (or against a wall) for support.",
+        "Lie on one side of your torso with your waist and hip against a Stability Ball, and position your feet on the floor (or against a wall) for support.",
         "With one hand, hold a weight against the side of your head.",
         "Place your free hand across your chest to steady yourself.",
         "Raise your torso up off the ball by flexing your waist.",
         "With controlled movements lower yourself back onto the ball."
     ],
-    "tips": [],
+    "tips": [
+        "The Stability Ball conforms better to your body and allows for correct anatomical range of movement."
+    ],
     "references": []
 }

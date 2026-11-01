@@ -1,10 +1,10 @@
 {
     "id": "0004",
-    "name": "seated-military-press",
-    "title": "Seated Military Press",
-    "primer": "An exercise for the shoulder and triceps strengthening.",
+    "name": "military-press-barbell-seated",
+    "title": "Military Press: Barbell (Seated)",
+    "primer": "An exercise for shoulder and triceps strengthening.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "shoulders",
     "primary": [

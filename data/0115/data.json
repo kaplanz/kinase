@@ -1,34 +1,34 @@
 {
     "id": "0115",
-    "name": "dumbbell-lunges",
-    "title": "Lunges: Dumbbell",
-    "primer": "This is an exercise for whole leg but mainly hamstring strengthening.",
+    "name": "lunge-dumbbell",
+    "title": "Lunge: Dumbbell",
+    "primer": "This is an exercise for strengthening the whole leg, but mainly the quadriceps.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "legs",
     "primary": [
-        "ischiocrural muscles"
+        "quadriceps"
     ],
     "secondary": [
-        "glutaeus maximus",
-        "quadriceps",
+        "gluteus maximus",
+        "hamstrings",
         "gastrocnemius",
         "soleus"
     ],
     "equipment": [
-        "dumbbells"
+        "dumbbell"
     ],
     "steps": [
         "Grasp a dumbbell in each hand.",
         "Stand with your feet about 8 inches apart, toes facing forward.",
         "Take a step forward (2-3 feet) keeping your abs drawn in and your upper body straight.",
-        "Slowly lower one knee down as if kneeling while keeping your other knee bent at a 90 degree angle, do not let your knee touch the ground.",
+        "Slowly lower one knee down as if kneeling while keeping your other knee bent at a 90 degree angle. Do not let your knee touch the ground.",
         "Lower your body so that the rear knee is just above the floor and hold for a moment before returning to the starting position.",
         "Repeat on opposite side."
     ],
     "tips": [
-        "Ensure not maintain your front knee at a 90 degree angle, in order to prevent knee injury."
+        "Keep your front knee at a 90 degree angle to prevent knee injury."
     ],
     "references": []
 }

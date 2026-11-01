@@ -1,6 +1,6 @@
 {
     "id": "0182",
-    "name": "lying-triceps-extension-across-face-with-dumbbell",
+    "name": "triceps-extension-dumbbell-lying-across-face",
     "title": "Triceps Extension: Dumbbell (Lying, Across Face)",
     "primer": "This is an advanced Triceps exercise and should be avoided by beginners.",
     "type": [
@@ -12,14 +12,14 @@
     ],
     "secondary": [],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "flat bench"
     ],
     "steps": [
-        "This is an advanced exercise and should be avoided by beginners.",
-        "Lay on a flat bench with your head at one end and your feet planted firmly on the floor.",
+        "Lie on a flat bench with your head at one end and your feet planted firmly on the floor.",
         "Grasp a dumbbell in each hand with palms facing up.",
         "Raise dumbbells over your body. Your arms will be pointed towards the ceiling.",
-        "While keeping your upper arms and elbows still, lower the dumbbell slowly over your face bending only your elbow.",
+        "While keeping your upper arms still, lower one dumbbell slowly across your face, bending only that elbow.",
         "Slowly raise the dumbbell back to the starting position and repeat with your other arm."
     ],
     "tips": [

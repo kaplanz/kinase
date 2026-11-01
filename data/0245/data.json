@@ -1,7 +1,7 @@
 {
     "id": "0245",
-    "name": "spider-curl-with-barbell",
-    "title": "Spider Curl with Barbell",
+    "name": "spider-curl-barbell",
+    "title": "Spider Curl: Barbell",
     "primer": "This exercise uses the straight side of a Preacher Curl bench to increase the range of motion of the exercise.",
     "type": [
         "isolation"
@@ -12,7 +12,8 @@
     ],
     "secondary": [],
     "equipment": [
-        "barbell"
+        "barbell",
+        "preacher bench"
     ],
     "steps": [
         "Turn a Preacher Curl bench around so you are leaning against the angled side.",

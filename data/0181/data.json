@@ -1,6 +1,6 @@
 {
     "id": "0181",
-    "name": "lying-triceps-extension-with-dumbbells",
+    "name": "triceps-extension-dumbbell-lying",
     "title": "Triceps Extension: Dumbbell (Lying)",
     "primer": "This exercise uses gravity to increase the resistance of the weight.",
     "type": [
@@ -12,10 +12,11 @@
     ],
     "secondary": [],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "flat bench"
     ],
     "steps": [
-        "Lay on a flat bench with your head at one end and your feet planted firmly on the floor.",
+        "Lie on a flat bench with your head at one end and your feet planted firmly on the floor.",
         "Grasp a dumbbell with both hands with palms facing up.",
         "Raise dumbbell over your body. Your arms will be pointed towards the ceiling.",
         "While keeping your upper arms and elbows still, lower the dumbbell in an arc behind your head.",

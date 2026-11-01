@@ -1,7 +1,7 @@
 {
     "id": "0010",
-    "name": "front-raises",
-    "title": "Front Raises",
+    "name": "front-raise-dumbbell",
+    "title": "Front Raise: Dumbbell",
     "primer": "This is an exercise for shoulder, chest, and forearm strengthening.",
     "type": [
         "isolation"
@@ -19,10 +19,10 @@
     ],
     "steps": [
         "Stand with your feet shoulder width apart, abs drawn in and knees slightly bent.",
-        "Grasp a dumbbell in each hand, with your palm facing down.",
-        "Start with the dumbbell at waist height.",
-        "Raise your left arm, keeping your elbow slightly bent and your arm straight, to in line with your shoulder.",
-        "Pause for a moment and with a controlled motion lower your arm to back to the starting position at your waist.",
+        "Grasp a dumbbell in each hand, with your palms facing down.",
+        "Start with the dumbbells at waist height.",
+        "Raise your left arm, keeping your elbow slightly bent and your arm straight, until it is in line with your shoulder.",
+        "Pause for a moment and with a controlled motion lower your arm back to the starting position at your waist.",
         "Repeat with your right arm."
     ],
     "tips": [

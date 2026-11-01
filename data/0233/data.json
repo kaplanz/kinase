@@ -1,7 +1,7 @@
 {
     "id": "0233",
-    "name": "lying-close-grip-biceps-curls-with-cable",
-    "title": "Lying Close Grip Biceps Curls with Cable",
+    "name": "biceps-curl-cable-lying-close-grip",
+    "title": "Biceps Curl: Cable (Lying, Close Grip)",
     "primer": "This exercise combines a flat body position with a pulling motion to work the biceps.",
     "type": [
         "isolation"
@@ -12,7 +12,8 @@
     ],
     "secondary": [],
     "equipment": [
-        "cable machine"
+        "cable machine",
+        "flat bench"
     ],
     "steps": [
         "Place a flat bench under a cable weight stack and attach a flat bar to the pulley.",

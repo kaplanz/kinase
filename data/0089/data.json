@@ -1,10 +1,10 @@
 {
     "id": "0089",
-    "name": "chin-ups",
-    "title": "Chin Ups",
+    "name": "chin-up",
+    "title": "Chin-Up",
     "primer": "This is an extremely good exercise for upper arm and middle back strengthening.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "back",
     "primary": [
@@ -14,17 +14,16 @@
         "biceps brachii"
     ],
     "equipment": [
-        "body",
-        "bar"
+        "pull-up bar"
     ],
     "steps": [
-        "Grasp the bar with an supinated (overhand) grip.",
+        "Grasp the bar with a supinated (underhand) grip.",
         "Let your body hang from the bar with your arms straight.",
         "Slowly pull yourself up so that your chin is higher than the bar.",
         "With a controlled movement lower yourself to the starting position."
     ],
     "tips": [
-        "Ensure to contract your back and core muscles throughout this exercise to prevent injury and to maximise the effectiveness of the exercise."
+        "Ensure to contract your back and core muscles throughout this exercise to prevent injury and to maximize the effectiveness of the exercise."
     ],
     "references": []
 }

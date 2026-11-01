@@ -1,7 +1,7 @@
 {
     "id": "0151",
-    "name": "overhead-squat-with-barbell",
-    "title": "Overhead Squat with Barbell",
+    "name": "overhead-squat-barbell",
+    "title": "Overhead Squat: Barbell",
     "primer": "In this version of the squat you hold the bar overhead as you perform the exercise.",
     "type": [
         "compound"
@@ -11,10 +11,10 @@
         "quadriceps"
     ],
     "secondary": [
-        "glutaeus maximus",
+        "gluteus maximus",
         "gastrocnemius",
         "soleus",
-        "ischiocrural muscles",
+        "hamstrings",
         "deltoid",
         "erector spinae"
     ],
@@ -23,11 +23,13 @@
     ],
     "steps": [
         "Stand with your feet a bit wider than shoulder width apart with your toes pointed slightly outward.",
-        "Grasp a barbell using a wide side snatch grip with your arms and elbows fully extended.",
+        "Grasp a barbell using a wide snatch grip with your arms and elbows fully extended.",
         "Keeping the bar overhead, bend your knees and lower your body until your thighs are parallel with the floor.",
-        "Return to starting position.",
-        "Notes: Keep your feet firmly planted on the floor throughout this exercise. Keep your abs drawn in your back tight and your chest up you perform this exercise."
+        "Return to the starting position."
     ],
-    "tips": [],
+    "tips": [
+        "Keep your feet firmly planted on the floor throughout this exercise.",
+        "Keep your abs drawn in, your back tight and your chest up as you perform this exercise."
+    ],
     "references": []
 }

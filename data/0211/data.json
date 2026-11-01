@@ -1,6 +1,6 @@
 {
     "id": "0211",
-    "name": "biceps-curls-with-barbell",
+    "name": "biceps-curl-barbell",
     "title": "Biceps Curl: Barbell",
     "primer": "This is a basic exercise for the biceps.",
     "type": [
@@ -18,7 +18,6 @@
         "barbell"
     ],
     "steps": [
-        "This is a basic exercise for the biceps (arms).",
         "Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.",
         "Grasp a barbell with palms facing up, approximately shoulder width apart.",
         "Lower your arms fully to above your thighs and bending only your elbows, raise the bar to your upper chest.",

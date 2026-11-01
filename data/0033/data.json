@@ -1,7 +1,7 @@
 {
     "id": "0033",
-    "name": "front-dumbbell-raise",
-    "title": "Front Dumbbell Raise",
+    "name": "front-raise-dumbbell-above-shoulder",
+    "title": "Front Raise: Dumbbell (Above Shoulder)",
     "primer": "This is an exercise for shoulder strengthening.",
     "type": [
         "isolation"
@@ -12,12 +12,12 @@
     ],
     "secondary": [],
     "equipment": [
-        "dumbbells"
+        "dumbbell"
     ],
     "steps": [
         "Stand with a dumbbell in each hand with an overhand grip, your feet shoulder width apart and your abs drawn in.",
         "Keeping each arm straight raise your left arm to just above shoulder height.",
-        "Pause for a moment then in a controlled motion lower the weight to starting position and repeat with your right arm."
+        "Pause for a moment then in a controlled motion lower the weight to the starting position and repeat with your right arm."
     ],
     "tips": [],
     "references": []

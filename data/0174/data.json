@@ -1,6 +1,6 @@
 {
     "id": "0174",
-    "name": "incline-triceps-extension-with-barbell",
+    "name": "triceps-extension-barbell-incline",
     "title": "Triceps Extension: Barbell (Incline)",
     "primer": "This version of a triceps extension uses gravity to increase the resistance of the exercise.",
     "type": [
@@ -12,7 +12,8 @@
     ],
     "secondary": [],
     "equipment": [
-        "barbell"
+        "barbell",
+        "incline bench"
     ],
     "steps": [
         "Grasp a barbell with a close grip (4-6 inches apart).",

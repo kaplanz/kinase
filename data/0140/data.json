@@ -1,6 +1,6 @@
 {
     "id": "0140",
-    "name": "iron-cross-with-dumbbells",
+    "name": "iron-cross-dumbbell",
     "title": "Iron Cross: Dumbbell",
     "primer": "This is an advanced exercise that works the whole body.",
     "type": [
@@ -12,16 +12,16 @@
     ],
     "secondary": [
         "trapezius",
-        "glutaeus maximus",
+        "gluteus maximus",
         "deltoid",
         "erector spinae",
-        "ischiocrural muscles"
+        "hamstrings"
     ],
     "equipment": [
-        "dumbbells"
+        "dumbbell"
     ],
     "steps": [
-        "With a dumbbell in each hand, stand in a low squat stance, your feet shoulder width arms held out in front of you with your palms facing in.",
+        "With a dumbbell in each hand, stand in a low squat stance, your feet shoulder width apart and your arms held out in front of you with your palms facing in.",
         "Standing upright, move your arms out and away from your body forming a \"T\" or \"cross\"."
     ],
     "tips": [

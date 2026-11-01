@@ -1,8 +1,8 @@
 {
     "id": "0234",
-    "name": "lying-high-bench-biceps-curl-with-barbell",
-    "title": "Lying High Bench Biceps Curl with Barbell",
-    "primer": "With this exercise, lay your face down to isolate your biceps.",
+    "name": "biceps-curl-barbell-lying-high-bench",
+    "title": "Biceps Curl: Barbell (Lying, High Bench)",
+    "primer": "With this exercise, lie face down to isolate your biceps.",
     "type": [
         "isolation"
     ],
@@ -12,12 +12,13 @@
     ],
     "secondary": [],
     "equipment": [
-        "barbell"
+        "barbell",
+        "bench"
     ],
     "steps": [
-        "Lay face down on a high bench with your head at one end and your toes pressed against the floor to support you.",
+        "Lie face down on a high bench with your head at one end and your toes pressed against the floor to support you.",
         "Grasp a barbell with palms facing up, about 12 inches apart.",
-        "Extending your arms to the floor, curl your arms back towards your head in a slight arc, so your biceps touch your forearm.",
+        "Extending your arms to the floor, curl your arms back towards your head in a slight arc, so your biceps touch your forearms.",
         "Slowly return to the starting position."
     ],
     "tips": [],

@@ -1,6 +1,6 @@
 {
     "id": "0125",
-    "name": "hack-squat-with-barbell",
+    "name": "hack-squat-barbell",
     "title": "Hack Squat: Barbell",
     "primer": "This is another variation of the basic Squat that focuses primarily on the quadriceps or thigh muscles.",
     "type": [
@@ -11,7 +11,7 @@
         "quadriceps"
     ],
     "secondary": [
-        "ischiocrural muscles"
+        "hamstrings"
     ],
     "equipment": [
         "barbell"
@@ -21,7 +21,7 @@
         "With your feet firmly placed on the floor, reach down and grasp the barbell from behind with an overhand grip.",
         "Lift the barbell by extending your hips and knees, taking care not to lock your knees.",
         "Lower yourself (squat) down until your thighs are parallel to the floor.",
-        "Slowly raise yourself up to starting position."
+        "Slowly raise yourself up to the starting position."
     ],
     "tips": [],
     "references": []

@@ -1,10 +1,10 @@
 {
     "id": "0031",
-    "name": "incline-shoulder-press-dumbbell",
-    "title": "Incline Shoulder Press Dumbbell",
+    "name": "shoulder-press-dumbbell-incline",
+    "title": "Shoulder Press: Dumbbell (Incline)",
     "primer": "This is an exercise for shoulder strengthening.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "shoulders",
     "primary": [
@@ -12,13 +12,14 @@
     ],
     "secondary": [],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "incline bench"
     ],
     "steps": [
         "Lie down on an incline bench with your feet flat on the floor and grasp the dumbbells.",
-        "With your elbows bent raise your arms up until in line with your shoulders this is your starting position.",
+        "With your elbows bent, raise your arms up until they are in line with your shoulders. This is your starting position.",
         "With your abs drawn in, raise the dumbbells as high as you are able above your shoulders.",
-        "Lower the dumbbells in a slow controlled manner to starting position."
+        "Lower the dumbbells in a slow controlled manner to the starting position."
     ],
     "tips": [],
     "references": []

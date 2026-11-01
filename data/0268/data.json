@@ -1,7 +1,7 @@
 {
     "id": "0268",
-    "name": "stork-stance-biceps-curl-with-dumbbells",
-    "title": "Stork Stance Bicep Curl with Dumbbells",
+    "name": "biceps-curl-dumbbell-stork-stance",
+    "title": "Biceps Curl: Dumbbell (Stork Stance)",
     "primer": "This is an advanced exercise that requires excellent coordination and balance.",
     "type": [
         "isolation"
@@ -12,18 +12,17 @@
     ],
     "secondary": [
         "quadriceps",
-        "ischiocrural muscles",
-        "glutaeus maximus",
+        "hamstrings",
+        "gluteus maximus",
         "gastrocnemius",
-        "soleus",
-        "triceps brachii"
+        "soleus"
     ],
     "equipment": [
         "dumbbell"
     ],
     "steps": [
-        "Grasp a pair of dumbbells in each hand, palms facing up.",
-        "Standing on one foot, extend your other foot back (see illustration) and extend your arms down so they are handing in front of your leg.",
+        "Grasp a dumbbell in each hand, palms facing up.",
+        "Standing on one foot, extend your other foot back (see illustration) and extend your arms down so they are hanging in front of your leg.",
         "While on one foot, curl your arms up contracting your biceps.",
         "Return to the starting position and switch legs."
     ],

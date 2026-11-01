@@ -1,8 +1,8 @@
 {
     "id": "0146",
-    "name": "narrow-stance-squat-with-barbell",
-    "title": "Narrow Stance Squat with Barbell",
-    "primer": "This version of the Squat targets and defines more of the externals leg muscles.",
+    "name": "squat-barbell-narrow-stance",
+    "title": "Squat: Barbell (Narrow Stance)",
+    "primer": "This version of the Squat targets and defines more of the external leg muscles.",
     "type": [
         "compound"
     ],
@@ -11,23 +11,24 @@
         "quadriceps"
     ],
     "secondary": [
-        "glutaeus maximus",
+        "gluteus maximus",
         "gastrocnemius",
         "soleus",
-        "ischiocrural muscles"
+        "hamstrings"
     ],
     "equipment": [
         "barbell"
     ],
     "steps": [
-        "A great overall exercise for the lower body. This version of the Squat targets and defines more of the externals leg muscles.",
         "Lifting a barbell off of a weight rack, position it on your shoulders.",
         "Place your feet about 6 inches apart with your knees and toes pointed slightly outward.",
         "Drawing your abs in, descend slowly by bending at the knees and hips as if you are sitting down (squatting).",
-        "Lower yourself as far as you can control without letting your body shift towards your toes (this will cause you to loose balance).",
-        "Pause in the downward position and slowly return upright to the starting position.",
-        "Notes: A pad on the bar or towel on your shoulders can help improve your grip and reduce the discomfort of the bar against your back. Practice the squat without any weight to allow yourself to become comfortable with the movements."
+        "Lower yourself as far as you can control without letting your body shift towards your toes (this will cause you to lose balance).",
+        "Pause in the downward position and slowly return upright to the starting position."
     ],
-    "tips": [],
+    "tips": [
+        "A pad on the bar or towel on your shoulders can help improve your grip and reduce the discomfort of the bar against your back.",
+        "Practise the squat without any weight to allow yourself to become comfortable with the movements."
+    ],
     "references": []
 }

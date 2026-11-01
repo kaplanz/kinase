@@ -1,10 +1,10 @@
 {
     "id": "0013",
-    "name": "smith-machine-upright-row",
+    "name": "upright-row-smith-machine",
     "title": "Upright Row: Smith Machine",
     "primer": "This is an exercise for shoulder and biceps strengthening.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "shoulders",
     "primary": [
@@ -12,7 +12,7 @@
     ],
     "secondary": [
         "biceps brachii",
-        "upper back"
+        "trapezius"
     ],
     "equipment": [
         "smith machine"

@@ -1,7 +1,7 @@
 {
     "id": "0276",
-    "name": "seated-one-leg-calf-raise-with-dumbbell",
-    "title": "Seated One Leg Calf Raise with Dumbbell",
+    "name": "calf-raise-dumbbell-seated-one-leg",
+    "title": "Calf Raise: Dumbbell (Seated, One Leg)",
     "primer": "This version of a calf raise allows you to exercise each leg individually.",
     "type": [
         "isolation"
@@ -13,15 +13,17 @@
     ],
     "secondary": [],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "bench"
     ],
     "steps": [
-        "This version of a calf raise allows you to exercise each leg individually. This exercise is helpful to people who are rehabilitating from injury as it allows you flexibility with the weight.",
         "Place a block on the floor about one foot in front of a bench.",
-        "Sit on the bench with a dumbbell across your upper thigh and the balls of one foot on the block.",
-        "Slowly raise and lower your toe up as high as possible without lifting your foot off the block.",
+        "Sit on the bench with a dumbbell across your upper thigh and the ball of one foot on the block.",
+        "Slowly raise your heel as high as possible without lifting your foot off the block, then lower it.",
         "Switch feet and repeat."
     ],
-    "tips": [],
+    "tips": [
+        "This exercise is helpful to people who are rehabilitating from injury as it allows you flexibility with the weight."
+    ],
     "references": []
 }

@@ -1,8 +1,8 @@
 {
     "id": "0092",
-    "name": "straight-arm-push-down",
-    "title": "Straight Arm Push Down",
-    "primer": "This exercise for strengthening the Lats and also works the Triceps.",
+    "name": "straight-arm-pushdown-cable",
+    "title": "Straight Arm Pushdown: Cable",
+    "primer": "This exercise is for strengthening the Lats and also works the Triceps.",
     "type": [
         "isolation"
     ],
@@ -17,10 +17,10 @@
         "cable machine"
     ],
     "steps": [
-        "Grasp wide grip pull down bar with a wide grip so your hands are on the portion of the bar which curves down.",
+        "Grasp a wide pull down bar with a wide grip so your hands are on the portion of the bar which curves down.",
         "Stand erect with your abs drawn in.",
-        "Keeping a slight bend in your elbows and your wrist steady pull the bar down from the starting position to your upper thighs.",
-        "With a controlled motion bring the bar back up to starting position."
+        "Keeping a slight bend in your elbows and your wrists steady pull the bar down from the starting position to your upper thighs.",
+        "With a controlled motion bring the bar back up to the starting position."
     ],
     "tips": [],
     "references": []

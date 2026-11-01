@@ -1,7 +1,7 @@
 {
     "id": "0250",
-    "name": "wide-grip-standing-biceps-curl-with-barbell",
-    "title": "Wide Grip Standing Biceps Curl with Barbell",
+    "name": "biceps-curl-barbell-standing-wide-grip",
+    "title": "Biceps Curl: Barbell (Standing, Wide Grip)",
     "primer": "This is a wide grip version of a biceps curl.",
     "type": [
         "isolation"
@@ -17,14 +17,14 @@
         "barbell"
     ],
     "steps": [
-        "This is a wide grip version of a biceps curl. The wider grip targets the lateral or outer portion of the muscle.",
         "Stand with your feet shoulder width apart, your knees slightly bent and your abs drawn in.",
         "Grasp a barbell with palms up as wide as you comfortably can.",
         "Extend your arms fully against your thighs.",
-        "Keeping your elbows straight, raise the bar towards your chest until your forearms touch your chest.",
-        "Pause for moment and then return to the starting position."
+        "Keeping your elbows still, raise the bar towards your chest until your forearms touch your chest.",
+        "Pause for a moment and then return to the starting position."
     ],
     "tips": [
+        "The wider grip targets the inner portion of the muscle.",
         "Lean up against a wall or post if you have problems keeping from swinging."
     ],
     "references": []

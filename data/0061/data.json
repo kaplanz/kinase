@@ -1,10 +1,10 @@
 {
     "id": "0061",
-    "name": "dumbbell-incline-bench-press",
-    "title": "Bench Press: Dumbbell (Incline)",
+    "name": "bench-press-dumbbell-incline-palms-forward",
+    "title": "Bench Press: Dumbbell (Incline, Palms Forward)",
     "primer": "This is an advanced exercise for building and sculpting the chest as well as your triceps and shoulders.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "chest",
     "primary": [
@@ -15,15 +15,15 @@
         "deltoid"
     ],
     "equipment": [
-        "dumbbells",
+        "dumbbell",
         "incline bench"
     ],
     "steps": [
         "Lie on an incline bench which has been set to an incline of 45 degrees.",
+        "Grasp the dumbbells with an overhand grip so your palms face towards your feet.",
         "Start with the dumbbells at shoulder height, your arms wide and elbows pointing down to the floor.",
-        "Grasp the dumbbells with a grip so your palms face each other.",
         "Raise your arms up over your chest bringing the dumbbells closer together as they meet over your chest, as if you were clapping.",
-        "Slowly return the dumbbells to starting position."
+        "Slowly return the dumbbells to the starting position."
     ],
     "tips": [],
     "references": []

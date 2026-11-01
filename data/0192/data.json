@@ -1,6 +1,6 @@
 {
     "id": "0192",
-    "name": "seated-two-arm-triceps-extension-with-dumbbell",
+    "name": "triceps-extension-dumbbell-seated-two-arm",
     "title": "Triceps Extension: Dumbbell (Seated, Two Arm)",
     "primer": "This exercise is the two handed version of seated triceps extension.",
     "type": [
@@ -12,14 +12,15 @@
     ],
     "secondary": [],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "bench"
     ],
     "steps": [
         "Sit on the edge of a bench with your feet flat on the floor.",
         "Hold a dumbbell in each hand.",
-        "Bring your arms up to your side so the dumbbell is almost parallel to your chest, keeping your lower arm vertical.",
-        "Press your arm back in arc towards your back.",
-        "Return to the starting position repeat and switch arms."
+        "Bring your arms up to your sides so the dumbbells are almost parallel to your chest, keeping your lower arms vertical.",
+        "Press your arms back in an arc towards your back.",
+        "Return to the starting position and repeat."
     ],
     "tips": [],
     "references": []

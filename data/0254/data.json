@@ -1,7 +1,7 @@
 {
     "id": "0254",
-    "name": "one-arm-biceps-curl-with-olympic-bar-or-barbell",
-    "title": "One Arm Bicep Curl with Olympic Bar or Barbell",
+    "name": "biceps-curl-barbell-one-arm",
+    "title": "Biceps Curl: Barbell (One Arm)",
     "primer": "This is an advanced exercise for building stability and the muscles of the arms.",
     "type": [
         "isolation"
@@ -20,7 +20,7 @@
         "Stand with your feet shoulder width apart and your knees slightly bent.",
         "Grasp an Olympic bar (empty weight bar) in the middle with one hand so that the bar is equally balanced.",
         "Keep your free hand at your side for support.",
-        "Curl the bar up so your forearm touches your bicep.",
+        "Curl the bar up so your forearm touches your biceps.",
         "Slowly lower the bar and change arms."
     ],
     "tips": [

@@ -1,8 +1,8 @@
 {
     "id": "0138",
-    "name": "front-squat-with-barbell",
-    "title": "Front Squat with Barbell",
-    "primer": "The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders.",
+    "name": "front-squat-barbell",
+    "title": "Front Squat: Barbell",
+    "primer": "The Front Squat works the same muscles as the back squat without placing the weight of the bar on your back.",
     "type": [
         "compound"
     ],
@@ -11,7 +11,7 @@
         "quadriceps"
     ],
     "secondary": [
-        "ischiocrural muscles",
+        "hamstrings",
         "gastrocnemius",
         "soleus"
     ],
@@ -19,14 +19,14 @@
         "barbell"
     ],
     "steps": [
-        "The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders. This exercise can be a good substitute for people with back and neck injuries.",
         "Place the barbell on your upper chest, resting it across your front deltoids and holding it with your arms crossed securely.",
         "Keep your head and back straight, abs drawn in and toes pointing slightly outward.",
         "Slowly \"squat\" down so your upper thighs are parallel to the floor.",
         "Slowly return to the starting position."
     ],
     "tips": [
-        "Practice the squat without any weight to allow yourself to become comfortable with the movements."
+        "This exercise can be a good substitute for people with back and neck injuries.",
+        "Practise the squat without any weight to allow yourself to become comfortable with the movements."
     ],
     "references": []
 }

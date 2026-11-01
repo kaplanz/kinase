@@ -1,7 +1,7 @@
 {
     "id": "0228",
-    "name": "flexor-incline-curls-with-dumbbell",
-    "title": "Flexor Incline Curls with Dumbbell",
+    "name": "biceps-curl-dumbbell-incline-flexor",
+    "title": "Biceps Curl: Dumbbell (Incline, Flexor)",
     "primer": "This exercise was designed to keep the stress on the biceps.",
     "type": [
         "isolation"
@@ -12,14 +12,16 @@
     ],
     "secondary": [],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "incline bench"
     ],
     "steps": [
         "Sit on an incline bench with your feet firmly on the floor in front of you.",
-        "Grasp a dumbbell with your palms facing up.",
-        "Bring your arms down to your sides and while keeping your wrists as straight as possible, raise your wrists to your shoulders.",
+        "Grasp a dumbbell in each hand with your palms facing up.",
+        "Bring your arms down to your sides and while keeping your wrists as straight as possible, raise your wrists to your shoulders."
+    ],
+    "tips": [
         "Concentrate on squeezing your biceps as you contract (raise) your arms."
     ],
-    "tips": [],
     "references": []
 }

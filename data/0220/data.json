@@ -1,7 +1,7 @@
 {
     "id": "0220",
-    "name": "concentration-curls-with-dumbbell",
-    "title": "Concentration Curls with Dumbbell",
+    "name": "concentration-curl-dumbbell",
+    "title": "Concentration Curl: Dumbbell",
     "primer": "Concentration exercises limit your range of movement to increase the effectiveness of the movement.",
     "type": [
         "isolation"
@@ -14,7 +14,8 @@
         "forearm"
     ],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "flat bench"
     ],
     "steps": [
         "Sit on the end of a flat bench with your feet flat and your legs spread apart.",

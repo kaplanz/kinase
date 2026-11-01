@@ -1,7 +1,7 @@
 {
     "id": "0288",
-    "name": "seated-ab-crunch-with-cable",
-    "title": "Seated Ab Crunch with Cable",
+    "name": "crunch-cable-seated",
+    "title": "Crunch: Cable (Seated)",
     "primer": "This exercise uses the weight of a cable machine to assist in a crunch.",
     "type": [
         "isolation"
@@ -12,11 +12,12 @@
     ],
     "secondary": [],
     "equipment": [
-        "cable machine"
+        "cable machine",
+        "bench"
     ],
     "steps": [
         "Attach a rope to a high cable pulley.",
-        "Place a bench in front of cable weight stack.",
+        "Place a bench in front of the cable weight stack.",
         "Grasp the rope over your shoulders and sit with your back towards the stack.",
         "With your feet firmly on the floor and keeping your hips steady, flex at the waist bringing your elbows towards your knees.",
         "Return to the starting position."

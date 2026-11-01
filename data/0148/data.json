@@ -1,7 +1,7 @@
 {
     "id": "0148",
-    "name": "one-arm-snatch-with-barbell",
-    "title": "One Arm Snatch with Barbell",
+    "name": "snatch-barbell-one-arm",
+    "title": "Snatch: Barbell (One Arm)",
     "primer": "This is an advanced exercise that works most of the muscles of the body.",
     "type": [
         "compound"
@@ -12,7 +12,7 @@
     ],
     "secondary": [
         "deltoid",
-        "ischiocrural muscles",
+        "hamstrings",
         "erector spinae",
         "abdominals",
         "trapezius",
@@ -23,13 +23,13 @@
         "barbell"
     ],
     "steps": [
-        "Exercises like this are used to develop functional strength for sports that require strong hands.",
         "Stand with your feet shoulder width apart, and a slight bend in your knees.",
-        "Grasp the bar with an overhead grip.",
-        "Starting with the barbell held slightly above the knees (hang position), lift the weight up over your head (step 1) then back to shoulder height (step 2) and finally back to starting position between near your knees."
+        "Grasp the middle of the bar with one hand, using an overhand grip.",
+        "Starting with the barbell held slightly above the knees (hang position), lift the weight up over your head (step 1) then back to shoulder height (step 2) and finally back to the starting position near your knees."
     ],
     "tips": [
-        "Bend your knees as you lift and lower the weight to help control the movement."
+        "Bend your knees as you lift and lower the weight to help control the movement.",
+        "Exercises like this are used to develop functional strength for sports that require strong hands."
     ],
     "references": []
 }

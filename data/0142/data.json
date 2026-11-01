@@ -1,7 +1,7 @@
 {
     "id": "0142",
-    "name": "leg-extensions",
-    "title": "Leg Extensions",
+    "name": "leg-extension",
+    "title": "Leg Extension",
     "primer": "This exercise is a staple for building strong legs.",
     "type": [
         "isolation"
@@ -21,7 +21,7 @@
         "Hold for a moment and then with controlled movements return to the starting position."
     ],
     "tips": [
-        "Use controlled movements for this exercise, do not swing the weight up."
+        "Use controlled movements for this exercise and do not swing the weight up."
     ],
     "references": []
 }

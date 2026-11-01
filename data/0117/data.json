@@ -1,14 +1,14 @@
 {
     "id": "0117",
-    "name": "lying-leg-curl-machine",
-    "title": "Lying Leg Curl Machine",
+    "name": "leg-curl-machine-lying",
+    "title": "Leg Curl: Machine (Lying)",
     "primer": "This is an exercise for hamstring strengthening.",
     "type": [
         "isolation"
     ],
     "part": "legs",
     "primary": [
-        "ischiocrural muscles"
+        "hamstrings"
     ],
     "secondary": [],
     "equipment": [
@@ -17,8 +17,7 @@
     "steps": [
         "Lie face down on a leg curl machine and place your heels under the roller pad.",
         "Grasp the grips with your hands for support and slowly curl your ankles up towards your back.",
-        "Hold for a moment and then return to starting position.",
-        "Repeat."
+        "Hold for a moment and then return to the starting position."
     ],
     "tips": [],
     "references": []

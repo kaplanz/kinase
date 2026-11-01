@@ -1,10 +1,10 @@
 {
     "id": "0011",
-    "name": "barbell-shoulder-press",
-    "title": "Seated Barbell Shoulder Press",
+    "name": "shoulder-press-barbell-seated",
+    "title": "Shoulder Press: Barbell (Seated)",
     "primer": "This is an exercise for shoulder, chest, and triceps strengthening.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "shoulders",
     "primary": [
@@ -15,7 +15,8 @@
         "pectoralis major"
     ],
     "equipment": [
-        "barbell"
+        "barbell",
+        "bench"
     ],
     "steps": [
         "Sitting on a bench with a barbell rack, grasp the barbell with a grip 3 to 4 inches wider than your shoulders.",

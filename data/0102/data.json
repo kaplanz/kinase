@@ -1,26 +1,25 @@
 {
     "id": "0102",
-    "name": "smith-machine-good-mornings",
-    "title": "Good Mornings: Smith Machine",
-    "primer": "This exercise utilises the same technique of the standard Good Mornings yet the use of the Smith Machine provides more stability.",
+    "name": "good-morning-smith-machine",
+    "title": "Good Morning: Smith Machine",
+    "primer": "This exercise utilizes the same technique as the standard Good Mornings yet the use of the Smith Machine provides more stability.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "back",
     "primary": [
         "erector spinae"
     ],
     "secondary": [
-        "ischiocrural muscles"
+        "hamstrings"
     ],
     "equipment": [
         "smith machine"
     ],
     "steps": [
-        "Place a barbell across your shoulders.",
+        "Place the bar of the Smith Machine across your shoulders.",
         "Keeping your head up and your back completely straight, bend at the waist until your back is parallel with the floor.",
-        "Return to starting position.",
-        "Repeat."
+        "Return to the starting position."
     ],
     "tips": [],
     "references": []

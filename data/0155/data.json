@@ -1,7 +1,7 @@
 {
     "id": "0155",
-    "name": "squats-with-exercise-bands",
-    "title": "Squats: Exercise Bands",
+    "name": "squat-band",
+    "title": "Squat: Band",
     "primer": "This version of the Squat uses flexible exercise bands for resistance instead of weights.",
     "type": [
         "compound"
@@ -13,8 +13,8 @@
     "secondary": [
         "gastrocnemius",
         "soleus",
-        "glutaeus maximus",
-        "ischiocrural muscles"
+        "gluteus maximus",
+        "hamstrings"
     ],
     "equipment": [
         "exercise band"

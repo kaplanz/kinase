@@ -1,10 +1,10 @@
 {
     "id": "0068",
-    "name": "one-arm-bench-press",
+    "name": "bench-press-dumbbell-one-arm",
     "title": "Bench Press: Dumbbell (One Arm)",
     "primer": "This is an advanced strengthening exercise for the chest and rotator cuff muscles of the shoulder.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "chest",
     "primary": [
@@ -20,11 +20,10 @@
     ],
     "steps": [
         "Lie flat on a bench with your feet placed firmly on the floor and your abs drawn in.",
-        "Grasp the dumbbell in one hand and bring it up to the side of your chest, this is starting position.",
-        "Extend your arm, pressing the dumbbell up till your arm is straight and your elbow locked.",
-        "Using slow controlled movements, lower the weight to starting position.",
-        "Switch arms after completing reps with one arm.",
-        "Repeat."
+        "Grasp the dumbbell in one hand and bring it up to the side of your chest. This is the starting position.",
+        "Extend your arm, pressing the dumbbell up until your arm is straight and your elbow locked.",
+        "Using slow controlled movements, lower the weight to the starting position.",
+        "Switch arms after completing reps with one arm."
     ],
     "tips": [
         "Ensure your hips and back remain in contact with the bench at all times during this exercise.",

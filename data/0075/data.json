@@ -1,10 +1,10 @@
 {
     "id": "0075",
     "name": "push-up-feet-elevated",
-    "title": "Push Up: Bench (Feet Elevated)",
-    "primer": "This is the same general movement as with a Push Up except your feet are elevated allowing greater range of motions and targeting the pectorals differently than the regular Push Up.",
+    "title": "Push-Up (Feet Elevated)",
+    "primer": "This is the same general movement as with a Push Up except your feet are elevated allowing a greater range of motion and targeting the pectorals differently than the regular Push Up.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "chest",
     "primary": [
@@ -15,7 +15,6 @@
         "triceps brachii"
     ],
     "equipment": [
-        "body",
         "bench"
     ],
     "steps": [

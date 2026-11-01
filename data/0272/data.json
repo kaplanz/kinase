@@ -1,8 +1,8 @@
 {
     "id": "0272",
-    "name": "seated-calf-raise-with-barbell",
-    "title": "Seated Calf Raise with Barbell",
-    "primer": "This version of a calves raise uses a block and a barbell.",
+    "name": "calf-raise-barbell-seated",
+    "title": "Calf Raise: Barbell (Seated)",
+    "primer": "This version of a calf raise uses a block and a barbell.",
     "type": [
         "isolation"
     ],
@@ -13,12 +13,13 @@
     ],
     "secondary": [],
     "equipment": [
-        "barbell"
+        "barbell",
+        "bench"
     ],
     "steps": [
         "Place a block on the floor about one foot in front of a bench.",
         "Sit on the bench with a barbell across your upper thighs and the balls of your feet on the block.",
-        "Slowly raise and lower your toes up as high as possible without lifting your foot off the block."
+        "Slowly raise your heels as high as possible without lifting your feet off the block, then lower them."
     ],
     "tips": [],
     "references": []

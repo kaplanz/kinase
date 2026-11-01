@@ -1,7 +1,7 @@
 {
     "id": "0298",
-    "name": "bent-over-row-with-barbell",
-    "title": "Bent Over Row with Barbell",
+    "name": "row-barbell-bent-over",
+    "title": "Row: Barbell (Bent-Over)",
     "primer": "This exercise focuses on the middle back.",
     "type": [
         "compound"
@@ -20,12 +20,12 @@
         "Place your feet shoulder width apart.",
         "Bend over the bar so your back is flat and parallel to the floor.",
         "Grasp the bar a bit wider than shoulder width apart with an overhand grip.",
-        "Hold the bar at arms length, this is starting position.",
+        "Hold the bar at arm's length. This is the starting position.",
         "Slowly raise the bar to the lower part of your chest.",
-        "Pause for a moment than return to starting position."
+        "Pause for a moment, then return to the starting position."
     ],
     "tips": [
-        "Keep your head up and your back straight while performing."
+        "Keep your head up and your back straight while performing this exercise."
     ],
     "references": []
 }

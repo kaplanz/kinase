@@ -1,10 +1,10 @@
 {
     "id": "0262",
-    "name": "biceps-curl-lunge-with-bowling-motion",
-    "title": "Biceps Curl: Medicine Balll (Lunge, Bowling Motion)",
+    "name": "lunge-medicine-ball-biceps-curl-bowling-motion",
+    "title": "Lunge: Medicine Ball (Biceps Curl, Bowling Motion)",
     "primer": "This exercise is similar to the motions of bowling.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "arms",
     "primary": [
@@ -14,8 +14,8 @@
         "gastrocnemius",
         "soleus",
         "triceps brachii",
-        "ischiocrural muscles",
-        "glutaeus maximus",
+        "hamstrings",
+        "gluteus maximus",
         "quadriceps"
     ],
     "equipment": [

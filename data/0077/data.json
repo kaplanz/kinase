@@ -1,10 +1,10 @@
 {
     "id": "0077",
-    "name": "push-ups",
-    "title": "Push Up: Body Weight",
-    "primer": "This exercise is the main strengthening exercise when wanting to strengthen ones chest, biceps, and triceps as well as core muscles.",
+    "name": "push-up",
+    "title": "Push-Up",
+    "primer": "This exercise is the main strengthening exercise when wanting to strengthen one's chest, shoulders, and triceps as well as core muscles.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "chest",
     "primary": [
@@ -18,13 +18,12 @@
         "body"
     ],
     "steps": [
-        "Start with a basic push up, lay face down on the floor, or a mat; with your feet together curled slightly so you rise onto the ball of your feet.",
-        "Place you hands shoulder width apart on the either side of your chest.",
+        "Lie face down on the floor, or a mat, with your feet together curled slightly so you rise onto the balls of your feet.",
+        "Place your hands shoulder width apart on either side of your chest.",
         "Draw your abs in.",
-        "Inhale as you raise your body up till your arms are straight.",
+        "Exhale as you raise your body up until your arms are straight.",
         "Keep your head and neck level with your body (don't look up or down) and don't allow your back to rise or fall.",
-        "Exhale out as you lower your body back to the ground.",
-        "Repeat."
+        "Inhale as you lower your body back to the ground."
     ],
     "tips": [],
     "references": []

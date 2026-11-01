@@ -1,17 +1,17 @@
 {
     "id": "0015",
-    "name": "upright-cable-row",
-    "title": "Upright Cable Row",
+    "name": "upright-row-cable",
+    "title": "Upright Row: Cable",
     "primer": "This is an exercise for shoulder, biceps, and upper back strengthening.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "shoulders",
     "primary": [
         "deltoid"
     ],
     "secondary": [
-        "upper back",
+        "trapezius",
         "biceps brachii"
     ],
     "equipment": [
@@ -20,8 +20,8 @@
     "steps": [
         "Attach a straight bar to the pulley on the floor.",
         "Stand with your feet shoulder width apart, your abs drawn in and your back straight.",
-        "Grasp the bar with an overhand grasp (your palms facing downwards) and pull it up towards your waist, this is the starting position.",
-        "Raise the bar up to in line with your shoulders.",
+        "Grasp the bar with an overhand grasp (your palms facing downwards) and pull it up towards your waist. This is the starting position.",
+        "Raise the bar until it is in line with your shoulders.",
         "Pause at the top and rotate your shoulder blades together.",
         "Lower the bar in a controlled motion to the starting position."
     ],

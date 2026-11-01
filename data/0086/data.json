@@ -2,18 +2,18 @@
     "id": "0086",
     "name": "body-row",
     "title": "Body Row",
-    "primer": "This is a good overall exercise which strengthens your chest, core, and back muscles.",
+    "primer": "This is a good overall exercise which strengthens your back, core, and biceps muscles.",
     "type": [
         "compound"
     ],
-    "part": "chest",
+    "part": "back",
     "primary": [
-        "pectoralis major"
+        "latissimus dorsi"
     ],
     "secondary": [
-        "core",
+        "biceps brachii",
         "trapezius",
-        "back"
+        "abdominals"
     ],
     "equipment": [
         "bar"
@@ -21,9 +21,8 @@
     "steps": [
         "Lie under a bar so that the bar is at mid chest level and your feet are firmly on the floor.",
         "Draw your abs in and keep your back flat.",
-        "Using your arms, lift, and row your body towards the bar.",
-        "Pause for a moment and with slow controlled movements lower your self back to starting position.",
-        "Repeat."
+        "Using your arms, lift and row your body towards the bar.",
+        "Pause for a moment and with slow controlled movements lower yourself back to the starting position."
     ],
     "tips": [],
     "references": []

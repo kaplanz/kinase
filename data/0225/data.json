@@ -1,7 +1,7 @@
 {
     "id": "0225",
-    "name": "prone-incline-biceps-curl-with-dumbbell",
-    "title": "Prone Incline Biceps Curl with Dumbbell",
+    "name": "biceps-curl-dumbbell-prone-incline",
+    "title": "Biceps Curl: Dumbbell (Prone, Incline)",
     "primer": "This exercise uses an incline bench to change your body's position as you perform Biceps Curls.",
     "type": [
         "isolation"
@@ -12,18 +12,19 @@
     ],
     "secondary": [],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "incline bench"
     ],
     "steps": [
-        "This exercise uses an incline bench to change your body's position as you perform Biceps Curls. The movement is very similar to a Preacher Curl.",
         "Adjust an incline bench to a 45 degree angle.",
-        "Grasp dumbbells in each hand and lean face down against the bench, with your feet resting on the floor for support.",
+        "Grasp a dumbbell in each hand and lean face down against the bench, with your feet resting on the floor for support.",
         "Allow your arms to hang down at your sides.",
-        "Keeping your elbow straight, raise the dumbbells up towards your head, contracting your biceps.",
+        "Keeping your elbows still, raise the dumbbells up towards your head, contracting your biceps.",
         "In a controlled manner, lower the weight and repeat."
     ],
     "tips": [
-        "Practice steady movements in this exercise, be careful not to let your arms sway."
+        "The movement is very similar to a Preacher Curl.",
+        "Practise steady movements in this exercise, and be careful not to let your arms sway."
     ],
     "references": []
 }

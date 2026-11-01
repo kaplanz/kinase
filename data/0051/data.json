@@ -1,10 +1,10 @@
 {
     "id": "0051",
-    "name": "decline-barbell-bench-press",
+    "name": "bench-press-barbell-decline",
     "title": "Bench Press: Barbell (Decline)",
     "primer": "This is an exercise for chest, triceps, and shoulder strengthening.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "chest",
     "primary": [
@@ -23,8 +23,7 @@
         "Grasp the bar at a grip 3-6 inches wider than your shoulders.",
         "Raise the bar above your chest, keeping your elbows close in.",
         "Slowly and with control lower the bar straight to your lower chest.",
-        "Raise the bar back up to starting position with the bar just above your chest.",
-        "Repeat."
+        "Raise the bar back up to the starting position with the bar just above your chest."
     ],
     "tips": [],
     "references": []

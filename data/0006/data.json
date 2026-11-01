@@ -4,7 +4,7 @@
     "title": "Arnold Press",
     "primer": "An exercise for shoulder and triceps strengthening.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "shoulders",
     "primary": [
@@ -14,10 +14,11 @@
         "triceps brachii"
     ],
     "equipment": [
-        "dumbbells"
+        "dumbbell",
+        "flat bench"
     ],
     "steps": [
-        "Sit on a flat bench, feet point forward with your abs drawn in.",
+        "Sit on a flat bench, feet pointing forward with your abs drawn in.",
         "Grasp a dumbbell in each hand with your palm facing towards your body.",
         "Bend your elbows to 90 degrees and raise both your arms to the starting point in line with your shoulders.",
         "With a steady controlled motion raise your arms up while straightening your elbows while rotating your forearms so that your palms now face away from your body.",

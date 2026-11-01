@@ -1,14 +1,14 @@
 {
     "id": "0120",
-    "name": "standing-leg-curls",
-    "title": "Standing Leg Curls",
+    "name": "leg-curl-machine-standing",
+    "title": "Leg Curl: Machine (Standing)",
     "primer": "This is an exercise for hamstring strengthening.",
     "type": [
         "isolation"
     ],
     "part": "legs",
     "primary": [
-        "ischiocrural muscles"
+        "hamstrings"
     ],
     "secondary": [],
     "equipment": [
@@ -18,7 +18,7 @@
         "Standing at a leg curl machine adjust the rear footpad so it is just above your ankle.",
         "Grasp the handles of the machine for support and draw your abs in.",
         "Raise your foot up towards your back slowly.",
-        "Return to the starting position and chance legs."
+        "Return to the starting position and change legs."
     ],
     "tips": [],
     "references": []

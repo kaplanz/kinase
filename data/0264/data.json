@@ -1,11 +1,10 @@
 {
     "id": "0264",
-    "name": "lateral-lunge-with-biceps-curl-with-dumbbell",
-    "title": "Lateral Lunge with Bicep Curl with Dumbbell",
-    "primer": "This is an advanced exercise that combines a lateral lunge with a bicep curl.",
+    "name": "lunge-dumbbell-lateral-biceps-curl",
+    "title": "Lunge: Dumbbell (Lateral, Biceps Curl)",
+    "primer": "This is an advanced exercise that combines a lateral lunge with a biceps curl.",
     "type": [
-        "compound",
-        "isolation"
+        "compound"
     ],
     "part": "legs",
     "primary": [
@@ -14,8 +13,8 @@
     ],
     "secondary": [
         "forearm",
-        "ischiocrural muscles",
-        "glutaeus maximus",
+        "hamstrings",
+        "gluteus maximus",
         "gastrocnemius",
         "soleus",
         "hip abductors"
@@ -29,7 +28,7 @@
         "Allow your arms to extend down fully in front of your thighs.",
         "While keeping your body straight, take a step sideways and then bend your waist and your knee into a lunge.",
         "As you go into the lunge, curl your arms up towards your shoulders contracting your biceps.",
-        "Return to starting position and switch legs."
+        "Return to the starting position and switch legs."
     ],
     "tips": [
         "Have a Personal Trainer or Instructor show you how to properly perform this exercise."

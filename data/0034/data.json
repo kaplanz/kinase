@@ -1,26 +1,26 @@
 {
     "id": "0034",
-    "name": "internal-cable-rotation",
-    "title": "Internal Cable Rotation",
+    "name": "internal-rotation-cable",
+    "title": "Internal Rotation: Cable",
     "primer": "This is an exercise for shoulder and biceps strengthening.",
     "type": [
-        "compound"
+        "isolation"
     ],
     "part": "shoulders",
     "primary": [
         "deltoid"
     ],
     "secondary": [
-        "biceps brachii"
+        "pectoralis major"
     ],
     "equipment": [
         "cable machine"
     ],
     "steps": [
-        "Sit on the floor with your body close to low cable pulley.",
-        "Grasp the pulley with your left arm and position your elbow bent at 90 degree angle.",
+        "Sit on the floor with your body close to a low cable pulley.",
+        "Grasp the pulley with your left arm and position your elbow bent at a 90 degree angle.",
         "Pull the cable towards your body and internally rotate your shoulder until your forearm is across your abs.",
-        "Return to starting position.",
+        "Return to the starting position.",
         "Repeat with right arm."
     ],
     "tips": [

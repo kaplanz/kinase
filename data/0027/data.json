@@ -10,9 +10,7 @@
     "primary": [
         "abdominals"
     ],
-    "secondary": [
-        "core"
-    ],
+    "secondary": [],
     "equipment": [
         "body"
     ],
@@ -20,11 +18,10 @@
         "Get down on a mat on your hands and knees, forming a four point rectangle or square shape.",
         "Keep your back straight and your hips and pelvis in a neutral position.",
         "Draw your abs in, crunching your abs while keeping your back still.",
-        "Hold for a moment and then release returning to the starting position.",
-        "Repeat."
+        "Hold for a moment and then release returning to the starting position."
     ],
     "tips": [
-        "For this exercise to be maximally effective your back should not move at all through out the contraction and relaxation."
+        "For this exercise to be maximally effective your back should not move at all throughout the contraction and relaxation."
     ],
     "references": []
 }

@@ -1,6 +1,6 @@
 {
     "id": "0209",
-    "name": "incline-triceps-extensions-with-dumbbell",
+    "name": "triceps-extension-dumbbell-incline",
     "title": "Triceps Extension: Dumbbell (Incline)",
     "primer": "This version of the triceps extension uses an incline bench.",
     "type": [
@@ -14,7 +14,8 @@
         "deltoid"
     ],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "incline bench"
     ],
     "steps": [
         "Grasp a dumbbell in each hand and lie against an incline bench, face up with your feet firmly planted on the floor.",

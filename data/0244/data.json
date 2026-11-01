@@ -1,7 +1,7 @@
 {
     "id": "0244",
-    "name": "seated-inner-biceps-curl-with-dumbbell",
-    "title": "Seated Inner Biceps Curl with Dumbbell",
+    "name": "biceps-curl-dumbbell-seated-inner",
+    "title": "Biceps Curl: Dumbbell (Seated, Inner)",
     "primer": "This exercise works the inner biceps.",
     "type": [
         "isolation"
@@ -14,12 +14,13 @@
         "forearm"
     ],
     "equipment": [
-        "dumbbell"
+        "dumbbell",
+        "bench"
     ],
     "steps": [
         "Sit on the edge of a bench with your feet firmly planted on the floor.",
         "Keep your back straight and your abs drawn in.",
-        "Grasp a dumbbell in each arm with your palms facing each other and fully extend your arms along your sides.",
+        "Grasp a dumbbell in each hand with your palms facing each other and fully extend your arms along your sides.",
         "Curl your arms up and out, turning your palms up and out as you lift.",
         "Slowly lower the dumbbells to the starting position."
     ],

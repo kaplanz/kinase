@@ -1,8 +1,8 @@
 {
     "id": "0292",
-    "name": "decline-crunch",
-    "title": "Decline Crunch",
-    "primer": "Using a decline crunch allows you keep your legs steady and isolate all of the abdominal muscles.",
+    "name": "crunch-decline",
+    "title": "Crunch (Decline)",
+    "primer": "Using a decline crunch allows you to keep your legs steady and isolate all of the abdominal muscles.",
     "type": [
         "isolation"
     ],
@@ -12,13 +12,13 @@
     ],
     "secondary": [],
     "equipment": [
-        "body"
+        "decline bench"
     ],
     "steps": [
         "Lie on a decline bench face up.",
         "Place your feet securely under the pads.",
         "Place your hands either across your chest or on either side of your head (over your ears).",
-        "Lay fully back and then rise slowly crunching your abs.",
+        "Lie fully back and then rise slowly crunching your abs.",
         "Pause for a moment and then return to the starting position."
     ],
     "tips": [

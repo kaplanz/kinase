@@ -1,10 +1,10 @@
 {
     "id": "0054",
-    "name": "chest-dips",
-    "title": "Chest Dips",
+    "name": "chest-dip",
+    "title": "Chest Dip",
     "primer": "This is an exercise for chest, triceps, and shoulder strengthening.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "chest",
     "primary": [
@@ -15,15 +15,13 @@
         "deltoid"
     ],
     "equipment": [
-        "body",
         "parallel bars"
     ],
     "steps": [
         "Stand in between the parallel bars.",
         "Grip the handles of the parallel bars and push yourself up to the starting position with straightened arms.",
-        "With your elbows close to your body keep your hips straight, lower your body forward by bending your elbows so your chest is leading as you go down.",
-        "Raise yourself back up to the starting position and repeat.",
-        "Repeat."
+        "With your elbows close to your body and your hips straight, lower your body forward by bending your elbows so your chest is leading as you go down.",
+        "Raise yourself back up to the starting position and repeat."
     ],
     "tips": [
         "Ensure not to lock your elbows once you have raised yourself up."

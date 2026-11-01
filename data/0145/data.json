@@ -1,7 +1,7 @@
 {
     "id": "0145",
-    "name": "narrow-stance-hack-squats",
-    "title": "Narrow Stance Hack Squats",
+    "name": "hack-squat-machine-narrow-stance",
+    "title": "Hack Squat: Machine (Narrow Stance)",
     "primer": "Like the Hack Squat, this exercise works the muscles of the leg.",
     "type": [
         "compound"
@@ -11,7 +11,7 @@
         "quadriceps"
     ],
     "secondary": [
-        "ischiocrural muscles",
+        "hamstrings",
         "gastrocnemius",
         "soleus"
     ],
@@ -19,14 +19,15 @@
         "machine"
     ],
     "steps": [
-        "Like the Hack Squat, this exercise works the muscles of the leg. The narrow stance targets the external muscles more efficiently.",
         "Lie face up on a Hack Squat machine with your shoulders against the pad.",
-        "Place your feet facing forward at a distance of 6 inches apart with your toes point slightly outward.",
+        "Place your feet facing forward at a distance of 6 inches apart with your toes pointed slightly outward.",
         "Release the dock levers and place your hands on the handgrips.",
         "Drawing your abs in, extend your body standing upright.",
         "Lower your body to a squatting position so your knees are bent as if you were sitting down.",
         "Return to the starting position."
     ],
-    "tips": [],
+    "tips": [
+        "The narrow stance targets the external muscles more efficiently."
+    ],
     "references": []
 }

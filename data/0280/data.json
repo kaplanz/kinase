@@ -1,15 +1,14 @@
 {
     "id": "0280",
-    "name": "smith-machine-reverse-calf-raises",
-    "title": "Smith Machine Reverse Calf Raises",
-    "primer": "This is a unique exercise that works the tibialis anterior muscle, one of the muscles of the calves.",
+    "name": "calf-raise-smith-machine-reverse",
+    "title": "Calf Raise: Smith Machine (Reverse)",
+    "primer": "This is a unique exercise that works the tibialis anterior muscle, at the front of the shin.",
     "type": [
         "isolation"
     ],
     "part": "legs",
     "primary": [
-        "gastrocnemius",
-        "soleus"
+        "tibialis anterior"
     ],
     "secondary": [],
     "equipment": [
@@ -17,8 +16,8 @@
     ],
     "steps": [
         "Place a block or low box under the bar at a Smith Machine.",
-        "Stand on the edge of the box with your toes hanging off.",
-        "Place the bar across your shoulders and lean forward lifting your ankles off the box.",
+        "Stand with your heels on the edge of the box and the front of your feet hanging off.",
+        "Place the bar across your shoulders and lift your toes as high as possible.",
         "Return to the starting position."
     ],
     "tips": [

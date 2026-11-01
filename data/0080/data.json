@@ -1,10 +1,10 @@
 {
     "id": "0080",
-    "name": "incline-dumbbell-press",
-    "title": "Incline Dumbbell Press",
-    "primer": "This exercises is for mainly chest strengthening but also strengthens your triceps and shoulders.",
+    "name": "bench-press-dumbbell-incline",
+    "title": "Bench Press: Dumbbell (Incline)",
+    "primer": "This exercise is mainly for chest strengthening but also strengthens your triceps and shoulders.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "chest",
     "primary": [
@@ -15,15 +15,15 @@
         "deltoid"
     ],
     "equipment": [
-        "dumbbells",
+        "dumbbell",
         "incline bench"
     ],
     "steps": [
-        "Set and incline bench at a 45 degree angle.",
+        "Set an incline bench at a 45 degree angle.",
+        "Lie on the bench with a dumbbell in each hand and your feet flat on the floor.",
         "Start with the dumbbells at shoulder height, your arms wide and elbows pointing down to the floor.",
         "Raise your arms up over your chest bringing the dumbbells closer together as they meet over your chest.",
-        "Slowly return the dumbbells to starting position.",
-        "Repeat."
+        "Slowly return the dumbbells to the starting position."
     ],
     "tips": [],
     "references": []

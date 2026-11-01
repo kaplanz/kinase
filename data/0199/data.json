@@ -1,10 +1,10 @@
 {
     "id": "0199",
-    "name": "one-arm-low-pulley-triceps-extension-with-cable",
+    "name": "triceps-extension-cable-one-arm-low-pulley",
     "title": "Triceps Extension: Cable (One Arm, Low-Pulley)",
     "primer": "This exercise uses a cable machine to isolate the triceps.",
     "type": [
-        "compound"
+        "isolation"
     ],
     "part": "arms",
     "primary": [

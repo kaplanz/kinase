@@ -1,7 +1,7 @@
 {
     "id": "0267",
-    "name": "medicine-ball-biceps-curl-on-stability-ball",
-    "title": "Medicine Ball Biceps Curl on Stability Ball",
+    "name": "biceps-curl-stability-ball-with-medicine-ball",
+    "title": "Biceps Curl: Stability Ball with Medicine Ball",
     "primer": "This exercise combines a new technology, Stability Ball, with an old piece of fitness equipment, the Medicine Ball.",
     "type": [
         "isolation"
@@ -11,7 +11,7 @@
         "biceps brachii"
     ],
     "secondary": [
-        "core",
+        "abdominals",
         "forearm"
     ],
     "equipment": [
@@ -21,8 +21,8 @@
     "steps": [
         "Sit on a Stability Ball with your feet firmly on the floor in front of you.",
         "Sit with your back straight, your shoulders back and your abs drawn in.",
-        "Hold a Medicine Ball in one hand and curl it up bringing your forearm up to your bicep.",
-        "Return to starting position and switch arms."
+        "Hold a Medicine Ball in one hand and curl it up bringing your forearm up to your biceps.",
+        "Return to the starting position and switch arms."
     ],
     "tips": [
         "Grasp the Medicine Ball with your fingers spread wide to balance the ball."

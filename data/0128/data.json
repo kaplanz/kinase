@@ -1,7 +1,7 @@
 {
     "id": "0128",
-    "name": "rear-lunges-with-barbell",
-    "title": "Lunges: Barbell (Rear)",
+    "name": "lunge-barbell-rear",
+    "title": "Lunge: Barbell (Rear)",
     "primer": "This is an advanced version of a lunge.",
     "type": [
         "compound"
@@ -14,20 +14,23 @@
         "hip abductors",
         "gastrocnemius",
         "soleus",
-        "glutaeus maximus",
-        "ischiocrural muscles"
+        "gluteus maximus",
+        "hamstrings"
     ],
     "equipment": [
         "barbell"
     ],
     "steps": [
         "Place a barbell on a rack at chest height.",
-        "Lift the barbell of of the rack and onto your shoulders, gripping the bar slightly wider than shoulder width apart.",
+        "Lift the barbell off of the rack and onto your shoulders, gripping the bar slightly wider than shoulder width apart.",
         "Stand with your feet approximately 8 inches apart with your toes pointing forward.",
         "Slowly take a step backward with your right leg.",
-        "Keeping your abs drawn in and your upper body straight, lower your body until your left knee is almost on the ground. You may choose to place a mat or towel under your knee.",
-        "Hold for a moment and then return to starting position."
+        "Keeping your abs drawn in and your upper body straight, lower your body until your right knee is almost on the ground.",
+        "Hold for a moment and then return to the starting position.",
+        "Repeat, stepping back with your left leg."
     ],
-    "tips": [],
+    "tips": [
+        "You may choose to place a mat or towel under your knee."
+    ],
     "references": []
 }

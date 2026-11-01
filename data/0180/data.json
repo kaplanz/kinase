@@ -1,7 +1,7 @@
 {
     "id": "0180",
-    "name": "lying-close-grip-triceps-press-to-chin-with-barbell",
-    "title": "Lying Close Grip Triceps Press to Chin with Barbell",
+    "name": "triceps-extension-barbell-lying-close-grip-to-chin",
+    "title": "Triceps Extension: Barbell (Lying, Close Grip, to Chin)",
     "primer": "This exercise is a classic for building the triceps.",
     "type": [
         "isolation"
@@ -12,7 +12,8 @@
     ],
     "secondary": [],
     "equipment": [
-        "barbell"
+        "barbell",
+        "flat bench"
     ],
     "steps": [
         "Lie on a flat bench on your back, with your head at one end.",

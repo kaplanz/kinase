@@ -1,10 +1,10 @@
 {
     "id": "0072",
-    "name": "one-armed-biased-push-up",
-    "title": "One Armed Biased Push Up",
-    "primer": "This is an exercise for chest strengthening but also strengthens ones core, shoulders, biceps, and triceps.",
+    "name": "push-up-bosu-ball-one-arm-biased",
+    "title": "Push-Up: Bosu Ball (One Arm Biased)",
+    "primer": "This is an exercise for chest strengthening but also strengthens one's core, shoulders, biceps, and triceps.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "chest",
     "primary": [
@@ -14,18 +14,17 @@
         "triceps brachii",
         "biceps brachii",
         "deltoid",
-        "core"
+        "abdominals"
     ],
     "equipment": [
         "bosu ball"
     ],
     "steps": [
-        "Arrange the ball so that as you begin the exercise, one hand on the Bosu ball and the other on the floor.",
         "Place the ball flat side down on the floor.",
-        "Kneel on the floor with your arms fully extended on the dome, and body straight.",
+        "Arrange the ball so that when you begin the exercise, one hand is on the Bosu ball and the other is on the floor.",
+        "Get into a push-up position with one hand on the dome and the other on the floor, your arms fully extended and your body straight.",
         "Keeping your abs drawn in and your body straight, lower your chest to the ball.",
-        "Pause for a moment and then return to starting position.",
-        "Repeat."
+        "Pause for a moment and then return to the starting position."
     ],
     "tips": [],
     "references": []

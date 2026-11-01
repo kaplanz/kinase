@@ -1,7 +1,7 @@
 {
     "id": "0277",
-    "name": "knee-circles",
-    "title": "Knee Circles",
+    "name": "knee-circle",
+    "title": "Knee Circle",
     "primer": "This is a simple exercise and a great stretch.",
     "type": [
         "compound"
@@ -12,7 +12,7 @@
         "soleus"
     ],
     "secondary": [
-        "ischiocrural muscles"
+        "hamstrings"
     ],
     "equipment": [
         "body"
@@ -22,7 +22,7 @@
         "Keeping your arms across your chest or on your hips, move your knees in a circular motion, paying attention to keeping your feet flat on the floor and the movement in your ankles."
     ],
     "tips": [
-        "Do not perform this exercise is you have rolled or unstable ankles."
+        "Do not perform this exercise if you have rolled or unstable ankles."
     ],
     "references": []
 }

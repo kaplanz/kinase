@@ -1,10 +1,10 @@
 {
     "id": "0076",
-    "name": "push-ups-with-feet-on-exercise-ball",
-    "title": "Push Up: Stability Ball",
-    "primer": "This is similar to the standard Push Up except using an Stability Ball forces you to engage the muscle of your core (Rectus Abdominis, Transverse Abdominis, and the Obliques).",
+    "name": "push-up-stability-ball",
+    "title": "Push-Up: Stability Ball",
+    "primer": "This is similar to the standard Push Up except using a Stability Ball forces you to engage the muscles of your core (Rectus Abdominis, Transverse Abdominis, and the Obliques).",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "chest",
     "primary": [
@@ -15,12 +15,11 @@
         "deltoid"
     ],
     "equipment": [
-        "body",
         "stability ball"
     ],
     "steps": [
-        "Place your feet and shins flat on an Stability Ball.",
-        "Place your arms in front of you at shoulder width apart, place your hands under your arms and press up from the ground until your arms are fully extended.",
+        "Place your feet and shins flat on a Stability Ball.",
+        "Place your hands on the ground shoulder width apart, directly under your shoulders, and press up until your arms are fully extended.",
         "Pause at the top for a moment and steady your balance.",
         "Slowly return to the starting position with your chest lowered towards the ground."
     ],

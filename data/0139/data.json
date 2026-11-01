@@ -1,8 +1,8 @@
 {
     "id": "0139",
-    "name": "front-squat-to-bench-with-barbells",
-    "title": "Front Squat to Bench with Barbells",
-    "primer": "The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders.",
+    "name": "front-squat-barbell-to-bench",
+    "title": "Front Squat: Barbell (to Bench)",
+    "primer": "The Front Squat works the same muscles as the back squat without placing the weight of the bar on your back.",
     "type": [
         "compound"
     ],
@@ -11,12 +11,13 @@
         "quadriceps"
     ],
     "secondary": [
-        "ischiocrural muscles",
+        "hamstrings",
         "gastrocnemius",
         "soleus"
     ],
     "equipment": [
-        "barbell"
+        "barbell",
+        "bench"
     ],
     "steps": [
         "Place a bench behind you.",
@@ -27,7 +28,7 @@
     ],
     "tips": [
         "This exercise can be a good substitute for people with back and neck injuries. By using a bench you remind yourself how far to squat down.",
-        "Practice the squat without any weight to allow yourself to become comfortable with the movements. Do not sit on the bench during the exercise."
+        "Practise the squat without any weight to allow yourself to become comfortable with the movements. Do not sit on the bench during the exercise."
     ],
     "references": []
 }

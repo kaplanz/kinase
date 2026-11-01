@@ -1,10 +1,10 @@
 {
     "id": "0003",
-    "name": "seated-shoulder-press-machine",
-    "title": "Seated Shoulder Press Machine",
-    "primer": "This is an exercise for the shoulder strengthening.",
+    "name": "shoulder-press-machine-seated",
+    "title": "Shoulder Press: Machine (Seated)",
+    "primer": "This is an exercise for shoulder strengthening.",
     "type": [
-        "isolation"
+        "compound"
     ],
     "part": "shoulders",
     "primary": [
